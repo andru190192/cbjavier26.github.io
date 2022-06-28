@@ -1,0 +1,113 @@
+{
+  "byKey": {
+    "0-9": {
+      "count": 4239,
+      "resultsFileName": "paginated/master-products-index-0-9.json"
+    },
+    "a": {
+      "count": 123477,
+      "resultsFileName": "paginated/master-products-index-a.json"
+    },
+    "b": {
+      "count": 104675,
+      "resultsFileName": "paginated/master-products-index-b.json"
+    },
+    "c": {
+      "count": 248781,
+      "resultsFileName": "paginated/master-products-index-c.json"
+    },
+    "d": {
+      "count": 49604,
+      "resultsFileName": "paginated/master-products-index-d.json"
+    },
+    "e": {
+      "count": 48171,
+      "resultsFileName": "paginated/master-products-index-e.json"
+    },
+    "f": {
+      "count": 39907,
+      "resultsFileName": "paginated/master-products-index-f.json"
+    },
+    "g": {
+      "count": 35604,
+      "resultsFileName": "paginated/master-products-index-g.json"
+    },
+    "h": {
+      "count": 32050,
+      "resultsFileName": "paginated/master-products-index-h.json"
+    },
+    "i": {
+      "count": 18921,
+      "resultsFileName": "paginated/master-products-index-i.json"
+    },
+    "j": {
+      "count": 53907,
+      "resultsFileName": "paginated/master-products-index-j.json"
+    },
+    "k": {
+      "count": 85838,
+      "resultsFileName": "paginated/master-products-index-k.json"
+    },
+    "l": {
+      "count": 59474,
+      "resultsFileName": "paginated/master-products-index-l.json"
+    },
+    "m": {
+      "count": 364564,
+      "resultsFileName": "paginated/master-products-index-m.json"
+    },
+    "n": {
+      "count": 64368,
+      "resultsFileName": "paginated/master-products-index-n.json"
+    },
+    "o": {
+      "count": 18811,
+      "resultsFileName": "paginated/master-products-index-o.json"
+    },
+    "p": {
+      "count": 143019,
+      "resultsFileName": "paginated/master-products-index-p.json"
+    },
+    "q": {
+      "count": 4777,
+      "resultsFileName": "paginated/master-products-index-q.json"
+    },
+    "r": {
+      "count": 48306,
+      "resultsFileName": "paginated/master-products-index-r.json"
+    },
+    "s": {
+      "count": 107277,
+      "resultsFileName": "paginated/master-products-index-s.json"
+    },
+    "t": {
+      "count": 110264,
+      "resultsFileName": "paginated/master-products-index-t.json"
+    },
+    "u": {
+      "count": 22377,
+      "resultsFileName": "paginated/master-products-index-u.json"
+    },
+    "v": {
+      "count": 51570,
+      "resultsFileName": "paginated/master-products-index-v.json"
+    },
+    "w": {
+      "count": 7072,
+      "resultsFileName": "paginated/master-products-index-w.json"
+    },
+    "x": {
+      "count": 3561,
+      "resultsFileName": "paginated/master-products-index-x.json"
+    },
+    "y": {
+      "count": 2360,
+      "resultsFileName": "paginated/master-products-index-y.json"
+    },
+    "z": {
+      "count": 26768,
+      "resultsFileName": "paginated/master-products-index-z.json"
+    }
+  },
+  "total": 1879742
+}
