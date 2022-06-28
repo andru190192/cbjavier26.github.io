@@ -1,49 +1,4889 @@
 {
-  "count": 11,
+  "count": 1221,
   "results": [
     {
-      "name": "Birradelivery Market",
-      "url": "https://www.rappi.com.uy/tiendas/113057-birradelivery-market-montevideo"
+      "name": "Bistr\u00f4 Faria Lima",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/493-bistro-faria-lima"
     },
     {
-      "name": "Bar Arocena Market",
-      "url": "https://www.rappi.com.uy/tiendas/112341-bar-arocena-market-montevideo"
+      "name": "Barakah Cozinha \u00c1rabe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/550-barakah-cozinha-arabe"
     },
     {
-      "name": "Botijas Bier Market",
-      "url": "https://www.rappi.com.uy/tiendas/112096-botijas-bier-market-montevideo"
+      "name": "Brasileirinho",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/581-brasileirinho"
     },
     {
-      "name": "Bar Arocena Liquor",
-      "url": "https://www.rappi.com.uy/tiendas/112554-bar-arocena-liquor-montevideo"
+      "name": "Bem Torta",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/617-bem-torta"
     },
     {
-      "name": "Birradelivery Liquor",
-      "url": "https://www.rappi.com.uy/tiendas/113063-birradelivery-liquor-montevideo"
+      "name": "Bella Mariana Padaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/622-bella-mariana-padaria"
     },
     {
-      "name": "Boutique Erotica",
-      "url": "https://www.rappi.com.uy/tiendas/112118-boutique-erotica-montevideo"
+      "name": "Busger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/786-busger"
     },
     {
-      "name": "Bodegasbouza Home",
-      "url": "https://www.rappi.com.uy/tiendas/114453-bodegasbouza-home-montevideo"
+      "name": "Babbo Giovanni",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/969-babbo-giovanni"
     },
     {
-      "name": "Birradelivery Cerveza",
-      "url": "https://www.rappi.com.uy/tiendas/113066-birradelivery-cerveza-montevideo"
+      "name": "Bacio di Latte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/972-bacio-di-latte"
     },
     {
-      "name": "Biolane Farmacia",
-      "url": "https://www.rappi.com.uy/tiendas/112459-biolane-farmacia-montevideo"
+      "name": "Benihana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/997-benihana"
     },
     {
-      "name": "Bodegasbouza Market",
-      "url": "https://www.rappi.com.uy/tiendas/114452-bodegasbouza-market-montevideo"
+      "name": "Big Esfiha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1001-big-esfiha"
     },
     {
-      "name": "Biolane Market",
-      "url": "https://www.rappi.com.uy/tiendas/112666-biolane-market-montevideo"
+      "name": "Big Pizzaria & Esfiharia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1004-big-pizzaria-esfiharia"
+    },
+    {
+      "name": "Big X Picanha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1005-big-x-picanha"
+    },
+    {
+      "name": "Black Dog",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1010-black-dog"
+    },
+    {
+      "name": "Bubble Kill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1026-bubble-kill"
+    },
+    {
+      "name": "Bullguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1027-bullguer"
+    },
+    {
+      "name": "Burger Happens",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1030-burger-happens"
+    },
+    {
+      "name": "Burger King",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1031-burger-king"
+    },
+    {
+      "name": "Buteco de Minas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1036-buteco-de-minas"
+    },
+    {
+      "name": "Best Sushi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1144-best-sushi"
+    },
+    {
+      "name": "Brigaderia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1587-brigaderia"
+    },
+    {
+      "name": "Balanceado",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/1914-balanceado"
+    },
+    {
+      "name": "Brigadeiro Doceria & Caf\u00e9",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/2337-brigadeiro-doceria-cafe"
+    },
+    {
+      "name": "Burdog",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/2981-burdog"
+    },
+    {
+      "name": "Bl\u00e9s D'or",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/3024-bles-d-or"
+    },
+    {
+      "name": "Bubblekill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/3382-bubblekill"
+    },
+    {
+      "name": "Boteco de Sampa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/3759-boteco-de-sampa"
+    },
+    {
+      "name": "Bubble Kill - Shopping Metr\u00f4 Tucuruvi Av. Dr. Ant\u00f4nio Maria Laet",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/3830-bubble-kill-shopping-metro-tucuruvi-av-dr-antonio-maria-laet"
+    },
+    {
+      "name": "Burggraf",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/3852-burggraf"
+    },
+    {
+      "name": "Bolo da Madre",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/3968-bolo-da-madre"
+    },
+    {
+      "name": "Bolo Paulista",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/3977-bolo-paulista"
+    },
+    {
+      "name": "Buena Vista Bar e Restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/4275-buena-vista-bar-e-restaurante"
+    },
+    {
+      "name": "Bacalhau do Porto",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/4547-bacalhau-do-porto"
+    },
+    {
+      "name": "Bronx Burger Dog e Burrito",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/4819-bronx-burger-dog-e-burrito"
+    },
+    {
+      "name": "Beleleu Burger e Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/5441-beleleu-burger-e-bar"
+    },
+    {
+      "name": "Brazas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/6035-brazas"
+    },
+    {
+      "name": "Bendita Tapioca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/6508-bendita-tapioca"
+    },
+    {
+      "name": "Benditta Pipoca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/6863-benditta-pipoca"
+    },
+    {
+      "name": "\ud83c\udf6b Brownie do Luiz - Doces",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/7289-brownie-do-luiz-doces"
+    },
+    {
+      "name": "Batata Show",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/8157-batata-show"
+    },
+    {
+      "name": "Bio Smart Food",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/9454-bio-smart-food"
+    },
+    {
+      "name": "Burger Fast R$ 15",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/9941-burger-fast-r-15"
+    },
+    {
+      "name": "Balcone Pizza Napolitana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/10485-balcone-pizza-napolitana"
+    },
+    {
+      "name": "Big Esfiha do Bixiga",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/11226-big-esfiha-do-bixiga"
+    },
+    {
+      "name": "Bob's",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/11830-bob-s"
+    },
+    {
+      "name": "Burger's Club",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/12376-burger-s-club"
+    },
+    {
+      "name": "Bola 7 Snooker Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/13262-bola-7-snooker-bar"
+    },
+    {
+      "name": "Brownie Retr\u00f4",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/13613-brownie-retro"
+    },
+    {
+      "name": "Big Bear Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/13849-big-bear-burger"
+    },
+    {
+      "name": "Br\u00e1z Trattoria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/15031-braz-trattoria"
+    },
+    {
+      "name": "Balada Mix",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/15061-balada-mix"
+    },
+    {
+      "name": "Bom Sabor",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/15634-bom-sabor"
+    },
+    {
+      "name": "Bonna Pasta",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/16184-bonna-pasta"
+    },
+    {
+      "name": "Bankai Sushi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/17111-bankai-sushi"
+    },
+    {
+      "name": "Bolo do Dia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/17153-bolo-do-dia"
+    },
+    {
+      "name": "Big Burguer Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/17235-big-burguer-lanches"
+    },
+    {
+      "name": "Bravo Frutaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/17580-bravo-frutaria"
+    },
+    {
+      "name": "Broo's Cookies",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/17731-broo-s-cookies"
+    },
+    {
+      "name": "Balaio",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/17819-balaio"
+    },
+    {
+      "name": "Boteco Porto Ferreiro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/18464-boteco-porto-ferreiro"
+    },
+    {
+      "name": "Bella Donna",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/19609-bella-donna"
+    },
+    {
+      "name": "Bebidas Geladas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/20119-bebidas-geladas"
+    },
+    {
+      "name": "Big Monster",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/20341-big-monster"
+    },
+    {
+      "name": "Burger X",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/20826-burger-x"
+    },
+    {
+      "name": "Bronx Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/20872-bronx-burguer"
+    },
+    {
+      "name": "BubbleKill - Market Place",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/21505-bubblekill-market-place"
+    },
+    {
+      "name": "Brasil Wok",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/21539-brasil-wok"
+    },
+    {
+      "name": "Bolo Da Madre",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/21653-bolo-da-madre"
+    },
+    {
+      "name": "Bar do Juveninha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/22669-bar-do-juveninha"
+    },
+    {
+      "name": "Bar\u00e3o do Sushi Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/23797-barao-do-sushi-delivery"
+    },
+    {
+      "name": "Bruna Trufas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/24320-bruna-trufas"
+    },
+    {
+      "name": "Buongustaio Tamba\u00fa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/24341-buongustaio-tambau"
+    },
+    {
+      "name": "Box Mineiro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/24718-box-mineiro"
+    },
+    {
+      "name": "Benta Marmita",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/24961-benta-marmita"
+    },
+    {
+      "name": "Bar do Shopping",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/25396-bar-do-shopping"
+    },
+    {
+      "name": "Boulangerie De France",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/26335-boulangerie-de-france"
+    },
+    {
+      "name": "Big Bread Tatuap\u00e9",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/26483-big-bread-tatuape"
+    },
+    {
+      "name": "Bekaa Culin\u00e1ria \u00c1rabe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/26858-bekaa-culinaria-arabe"
+    },
+    {
+      "name": "Bar\u00e3o Vegano - Tatuap\u00e9",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/26885-barao-vegano-tatuape"
+    },
+    {
+      "name": "BubbleKill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/27254-bubblekill"
+    },
+    {
+      "name": "Biscoite",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/27467-biscoite"
+    },
+    {
+      "name": "Bon Appetit",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/30572-bon-appetit"
+    },
+    {
+      "name": "Bulls",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/30731-bulls"
+    },
+    {
+      "name": "Big Pizzas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/30876-big-pizzas"
+    },
+    {
+      "name": "Black Trunk",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/32120-black-trunk"
+    },
+    {
+      "name": "Black Sushi To Go",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/32612-black-sushi-to-go"
+    },
+    {
+      "name": "BFactory Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/32793-bfactory-hamburgueria"
+    },
+    {
+      "name": "Big A\u00e7a\u00ed Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/33709-big-acai-delivery"
+    },
+    {
+      "name": "Bonna Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/34341-bonna-pizza"
+    },
+    {
+      "name": "Boteco da Gema",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/34651-boteco-da-gema"
+    },
+    {
+      "name": "Brownie Perfeito",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/35075-brownie-perfeito"
+    },
+    {
+      "name": "Bela Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/36258-bela-pizza"
+    },
+    {
+      "name": "Browneria To Go",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/36419-browneria-to-go"
+    },
+    {
+      "name": "Br\u00e1z Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/36552-braz-pizzaria"
+    },
+    {
+      "name": "Bauru Picanha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/37224-bauru-picanha"
+    },
+    {
+      "name": "Burger Sem Frescura",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/37647-burger-sem-frescura"
+    },
+    {
+      "name": "Buona Sera Pizzeria Napoletana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/37960-buona-sera-pizzeria-napoletana"
+    },
+    {
+      "name": "B\u00e3o Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/38341-bao-burger"
+    },
+    {
+      "name": "Burgueria Vip",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/38475-burgueria-vip"
+    },
+    {
+      "name": "Bolos Pra Toda Hora",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/40401-bolos-pra-toda-hora"
+    },
+    {
+      "name": "Br\u00e1z Elettrica",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/41381-braz-elettrica"
+    },
+    {
+      "name": "Brigadeiro Do Adri",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/41444-brigadeiro-do-adri"
+    },
+    {
+      "name": "Broto Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/41843-broto-pizza"
+    },
+    {
+      "name": "Burguers Do Ded\u00e9",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/42974-burguers-do-dede"
+    },
+    {
+      "name": "Bendito Nova am\u00e9rica Av. Pastor Martin Luther King J\u00fanior",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/44577-bendito-nova-america-av-pastor-martin-luther-king-junior"
+    },
+    {
+      "name": "Brani Pizzas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/44955-brani-pizzas"
+    },
+    {
+      "name": "Brownie Do Miguel",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/45080-brownie-do-miguel"
+    },
+    {
+      "name": "Bar Do Milton",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/45787-bar-do-milton"
+    },
+    {
+      "name": "Bar Do Urso",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/48054-bar-do-urso"
+    },
+    {
+      "name": "Brigadeiro Factory",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/48888-brigadeiro-factory"
+    },
+    {
+      "name": "B De Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/49174-b-de-burger"
+    },
+    {
+      "name": "Burger Box",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/50376-burger-box"
+    },
+    {
+      "name": "Babil\u00f4nia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/50733-babilonia"
+    },
+    {
+      "name": "Berlim Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/51089-berlim-pizzaria"
+    },
+    {
+      "name": "Bonara Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/51991-bonara-pizzaria"
+    },
+    {
+      "name": "Big Prensados",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/52410-big-prensados"
+    },
+    {
+      "name": "Boteco Pedrini",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/53017-boteco-pedrini"
+    },
+    {
+      "name": "Biscoit\u00ea",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/53782-biscoite"
+    },
+    {
+      "name": "Bollos Baruc - Santana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/55819-bollos-baruc-santana"
+    },
+    {
+      "name": "Beto A\u00e7a\u00ed",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/55866-beto-acai"
+    },
+    {
+      "name": "Burger Prime",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/57250-burger-prime"
+    },
+    {
+      "name": "Burger House 33",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/57444-burger-house-33"
+    },
+    {
+      "name": "Brigadeiro do Renato",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/57872-brigadeiro-do-renato"
+    },
+    {
+      "name": "Bolos do Fl\u00e1vio",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/58282-bolos-do-flavio"
+    },
+    {
+      "name": "Baguet\u00e3o Grelhados",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/58383-baguetao-grelhados"
+    },
+    {
+      "name": "Bom Hamb\u00farguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/59743-bom-hamburguer"
+    },
+    {
+      "name": "Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/60556-burguer"
+    },
+    {
+      "name": "Bolissimos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/60691-bolissimos"
+    },
+    {
+      "name": "Burger Five",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/61784-burger-five"
+    },
+    {
+      "name": "B\u00f3comer Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/62106-bocomer-pizzaria"
+    },
+    {
+      "name": "Beltrano",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/62297-beltrano"
+    },
+    {
+      "name": "Banca de Pastel Irashaimase",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/62830-banca-de-pastel-irashaimase"
+    },
+    {
+      "name": "Badejo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/62931-badejo"
+    },
+    {
+      "name": "Biondella Massas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/62987-biondella-massas"
+    },
+    {
+      "name": "Brothers Beach",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/63569-brothers-beach"
+    },
+    {
+      "name": "Boi Lourdes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/66395-boi-lourdes"
+    },
+    {
+      "name": "Basilios Burger & A\u00e7a\u00eds",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/67167-basilios-burger-acais"
+    },
+    {
+      "name": "Bolos da Eri",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/68964-bolos-da-eri"
+    },
+    {
+      "name": "Bar Astor",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/70813-bar-astor"
+    },
+    {
+      "name": "Bah Restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/71256-bah-restaurante"
+    },
+    {
+      "name": "Barkum Sushi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/72231-barkum-sushi"
+    },
+    {
+      "name": "Bello Sushi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/72518-bello-sushi"
+    },
+    {
+      "name": "Bolo da Vila",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/73058-bolo-da-vila"
+    },
+    {
+      "name": "Ball Five",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/73229-ball-five"
+    },
+    {
+      "name": "Burger Bar & Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/73755-burger-bar-pizza"
+    },
+    {
+      "name": "Burger Ocho",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/73862-burger-ocho"
+    },
+    {
+      "name": "Biffes Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/73983-biffes-grill"
+    },
+    {
+      "name": "Bull Prime",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/74145-bull-prime"
+    },
+    {
+      "name": "Buffalo Carioca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/75478-buffalo-carioca"
+    },
+    {
+      "name": "Bar Do Centro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/75525-bar-do-centro"
+    },
+    {
+      "name": "Baixo Lourdes Butchery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/75794-baixo-lourdes-butchery"
+    },
+    {
+      "name": "Butchery Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/76079-butchery-burger"
+    },
+    {
+      "name": "Best Poke",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/76386-best-poke"
+    },
+    {
+      "name": "Bolo Doce Bolo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/78343-bolo-doce-bolo"
+    },
+    {
+      "name": "Birinight Sandwiche And Beer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/78729-birinight-sandwiche-and-beer"
+    },
+    {
+      "name": "Burger Bar E Restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/78860-burger-bar-e-restaurante"
+    },
+    {
+      "name": "Blend Lab",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/78919-blend-lab"
+    },
+    {
+      "name": "Burging",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/78937-burging"
+    },
+    {
+      "name": "Black Beef",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/79493-black-beef"
+    },
+    {
+      "name": "Boh Pizza Lounge",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/79605-boh-pizza-lounge"
+    },
+    {
+      "name": "Bien / Soul Gastronomia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/79609-bien-soul-gastronomia"
+    },
+    {
+      "name": "Bella Massa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/79920-bella-massa"
+    },
+    {
+      "name": "Bia's Bolos - Confeitaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/80329-bia-s-bolos-confeitaria"
+    },
+    {
+      "name": "Burger da Rua",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/81018-burger-da-rua"
+    },
+    {
+      "name": "Burger Z",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/81184-burger-z"
+    },
+    {
+      "name": "Brooklyn Handcrafted Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/81366-brooklyn-handcrafted-pizza"
+    },
+    {
+      "name": "Bullet's Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/81888-bullet-s-burguer"
+    },
+    {
+      "name": "Bodega Do A\u00e7a\u00ed",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/82315-bodega-do-acai"
+    },
+    {
+      "name": "Burgz",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/82374-burgz"
+    },
+    {
+      "name": "Burger Mais Villa Lobos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/83589-burger-mais-villa-lobos"
+    },
+    {
+      "name": "Burger Lab",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/85125-burger-lab"
+    },
+    {
+      "name": "B.Eat Kitchen",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/85153-b-eat-kitchen"
+    },
+    {
+      "name": "Bottega Bernacca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/85360-bottega-bernacca"
+    },
+    {
+      "name": "Brewteco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/85956-brewteco"
+    },
+    {
+      "name": "BOLOS MISS CAKE",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/86004-bolos-miss-cake"
+    },
+    {
+      "name": "Boteco Formol",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/86291-boteco-formol"
+    },
+    {
+      "name": "Botanikaf\u00e9",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/86364-botanikafe"
+    },
+    {
+      "name": "Bembruttus Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/86441-bembruttus-burger"
+    },
+    {
+      "name": "Biscoit\u00ea",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/86699-biscoite"
+    },
+    {
+      "name": "Brown Sugar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/86710-brown-sugar"
+    },
+    {
+      "name": "Biscoit\u00ea Perdizes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/86881-biscoite-perdizes"
+    },
+    {
+      "name": "Brick House",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/87439-brick-house"
+    },
+    {
+      "name": "Balada Mix - Ipanema",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/87672-balada-mix-ipanema"
+    },
+    {
+      "name": "Brasileirissimo Batel",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/87769-brasileirissimo-batel"
+    },
+    {
+      "name": "Bar 300",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/88134-bar-300"
+    },
+    {
+      "name": "Barraca Do Z\u00e9",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/88200-barraca-do-ze"
+    },
+    {
+      "name": "Brado Restaurante.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/88275-brado-restaurante"
+    },
+    {
+      "name": "Box Brothers",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/88420-box-brothers"
+    },
+    {
+      "name": "Bispo Casa de P\u00e3es R. dos Italianos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/88736-bispo-casa-de-paes-r-dos-italianos"
+    },
+    {
+      "name": "Banana Jack - Ipanema",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/89006-banana-jack-ipanema"
+    },
+    {
+      "name": "Bent\u00f4 Box",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/89019-bento-box"
+    },
+    {
+      "name": "Boteco do Alem\u00e3o",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/89167-boteco-do-alemao"
+    },
+    {
+      "name": "Baob\u00e1 Sorvetes Artesanais",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/89601-baoba-sorvetes-artesanais"
+    },
+    {
+      "name": "Bistrot 11 - Mo\u00f3ca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/89818-bistrot-11-mooca"
+    },
+    {
+      "name": "Boteco Nola",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/90105-boteco-nola"
+    },
+    {
+      "name": "Bla Bla - Jardim Bot\u00e2nico",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/90337-bla-bla-jardim-botanico"
+    },
+    {
+      "name": "Bela Restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/90792-bela-restaurante"
+    },
+    {
+      "name": "Bar Central",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/90810-bar-central"
+    },
+    {
+      "name": "Butchery Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/91101-butchery-burguer"
+    },
+    {
+      "name": "Boteco do Gois",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/91317-boteco-do-gois"
+    },
+    {
+      "name": "Bar E Restaurante Loop",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/91328-bar-e-restaurante-loop"
+    },
+    {
+      "name": "Bar do Miltinho",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/91943-bar-do-miltinho"
+    },
+    {
+      "name": "Burgers Rio",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/91973-burgers-rio"
+    },
+    {
+      "name": "Baribar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/92131-baribar"
+    },
+    {
+      "name": "Barbatanas Peixe Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/92358-barbatanas-peixe-bar"
+    },
+    {
+      "name": "Bent\u00f4 House",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/92591-bento-house"
+    },
+    {
+      "name": "Basha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/92627-basha"
+    },
+    {
+      "name": "BGB",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/92687-bgb"
+    },
+    {
+      "name": "Bem Natural",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/93217-bem-natural"
+    },
+    {
+      "name": "Burguessauros",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/93369-burguessauros"
+    },
+    {
+      "name": "Boteco do Arlindo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/93487-boteco-do-arlindo"
+    },
+    {
+      "name": "Bar Moela",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/93606-bar-moela"
+    },
+    {
+      "name": "Bar do Alem\u00e3o Family Steiner",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/93682-bar-do-alemao-family-steiner"
+    },
+    {
+      "name": "Brickell Pizzas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/93765-brickell-pizzas"
+    },
+    {
+      "name": "Boteco Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/93852-boteco-grill"
+    },
+    {
+      "name": "Bar do Mendes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/93867-bar-do-mendes"
+    },
+    {
+      "name": "Barbaran",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/93958-barbaran"
+    },
+    {
+      "name": "Blau Bart",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/94069-blau-bart"
+    },
+    {
+      "name": "Brothers  Burger e Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/94439-brothers-burger-e-grill"
+    },
+    {
+      "name": "Band Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/96515-band-lanches"
+    },
+    {
+      "name": "Bistrogonoff",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/96518-bistrogonoff"
+    },
+    {
+      "name": "Bacalhau do Guga",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/96564-bacalhau-do-guga"
+    },
+    {
+      "name": "Buttermilk Woodleaf",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/96585-buttermilk-woodleaf"
+    },
+    {
+      "name": "Brigadeirismo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/96833-brigadeirismo"
+    },
+    {
+      "name": "Boardz Game Pub",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/96859-boardz-game-pub"
+    },
+    {
+      "name": "Bee O",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/97028-bee-o"
+    },
+    {
+      "name": "Bracia Parrilla",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/97109-bracia-parrilla"
+    },
+    {
+      "name": "Bar Original",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/97116-bar-original"
+    },
+    {
+      "name": "Barnella",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/97328-barnella"
+    },
+    {
+      "name": "Bol\u00e3o Rei do Espaguete",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/97403-bolao-rei-do-espaguete"
+    },
+    {
+      "name": "Bendito Cookies",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/97473-bendito-cookies"
+    },
+    {
+      "name": "Boteco do Joaquim R. Joaquim Nabuco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/97538-boteco-do-joaquim-r-joaquim-nabuco"
+    },
+    {
+      "name": "Bel Hamburgueria e Dogueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/98042-bel-hamburgueria-e-dogueria"
+    },
+    {
+      "name": "Bofratino",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/98051-bofratino"
+    },
+    {
+      "name": "Buffet Walquiria Festas e Eventos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/98710-buffet-walquiria-festas-e-eventos"
+    },
+    {
+      "name": "Big's Lanches Picanha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/99361-big-s-lanches-picanha"
+    },
+    {
+      "name": "Burger Dias",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/99450-burger-dias"
+    },
+    {
+      "name": "Buda Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/99892-buda-lanches"
+    },
+    {
+      "name": "Bistrot Saud\u00e1vel",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/100236-bistrot-saudavel"
+    },
+    {
+      "name": "Banri Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/101301-banri-burguer"
+    },
+    {
+      "name": "Bar e Restaurante Vila Franca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/101406-bar-e-restaurante-vila-franca"
+    },
+    {
+      "name": "Black Truck Bh",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/101506-black-truck-bh"
+    },
+    {
+      "name": "Box St Burger Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/101657-box-st-burger-bar"
+    },
+    {
+      "name": "Best A\u00e7a\u00ed",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/102160-best-acai"
+    },
+    {
+      "name": "Bela Gastronomia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/102526-bela-gastronomia"
+    },
+    {
+      "name": "Bem Fitnha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/102649-bem-fitnha"
+    },
+    {
+      "name": "Bowl Bowl",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/102750-bowl-bowl"
+    },
+    {
+      "name": "BAR DO PEIXE",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/102798-bar-do-peixe"
+    },
+    {
+      "name": "Botecao 13 bar e restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/102911-botecao-13-bar-e-restaurante"
+    },
+    {
+      "name": "Benvindo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/102938-benvindo"
+    },
+    {
+      "name": "Bendato",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/103203-bendato"
+    },
+    {
+      "name": "Baoba Faria Lima",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/103359-baoba-faria-lima"
+    },
+    {
+      "name": "Bar Estacao Baronesa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/103482-bar-estacao-baronesa"
+    },
+    {
+      "name": "Brownie Da Polly",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/103824-brownie-da-polly"
+    },
+    {
+      "name": "Bar e Lanchonete C\u00e9u Azul",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/104209-bar-e-lanchonete-ceu-azul"
+    },
+    {
+      "name": "Bia Hoi Sp - Vietpub",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/104661-bia-hoi-sp-vietpub"
+    },
+    {
+      "name": "Banri",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/104768-banri"
+    },
+    {
+      "name": "Big Churrasco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/104816-big-churrasco"
+    },
+    {
+      "name": "Bendito A\u00e7a\u00ed - Vila Maria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/105086-bendito-acai-vila-maria"
+    },
+    {
+      "name": "Bem Keu Disse Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/105132-bem-keu-disse-pizza"
+    },
+    {
+      "name": "Buttermilk - Vila Olimpia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/105686-buttermilk-vila-olimpia"
+    },
+    {
+      "name": "Bella Pizza Pizzaria e Restaurante Av. Afonso Olindense",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/106640-bella-pizza-pizzaria-e-restaurante-av-afonso-olindense"
+    },
+    {
+      "name": "Boleria Sonho de Menina",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/107257-boleria-sonho-de-menina"
+    },
+    {
+      "name": "Burgueria do Bosco - Gutierrez",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/107271-burgueria-do-bosco-gutierrez"
+    },
+    {
+      "name": "Barolio",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/107365-barolio"
+    },
+    {
+      "name": "Bac's",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/107414-bac-s"
+    },
+    {
+      "name": "Bendita Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/107540-bendita-pizza"
+    },
+    {
+      "name": "Bartman",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/107825-bartman"
+    },
+    {
+      "name": "Brigadeiros Morumbi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/108090-brigadeiros-morumbi"
+    },
+    {
+      "name": "Benvenuto",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/108125-benvenuto"
+    },
+    {
+      "name": "Bar do Man\u00e9",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/108490-bar-do-mane"
+    },
+    {
+      "name": "Brazilian Ice Cream",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/109698-brazilian-ice-cream"
+    },
+    {
+      "name": "Banoffee Bistr\u00f4",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/110049-banoffee-bistro"
+    },
+    {
+      "name": "Baruk Congelados - Vila Olimpia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/110887-baruk-congelados-vila-olimpia"
+    },
+    {
+      "name": "Banca Laranjeiras 1",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/111292-banca-laranjeiras-1"
+    },
+    {
+      "name": "Burguesia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/111439-burguesia"
+    },
+    {
+      "name": "Burgup Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/111811-burgup-hamburgueria"
+    },
+    {
+      "name": "Benko Doces",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/111886-benko-doces"
+    },
+    {
+      "name": "Bolos Vitta",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/112006-bolos-vitta"
+    },
+    {
+      "name": "Boemia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/112196-boemia"
+    },
+    {
+      "name": "B\u00f3sforo Esfiha & Kebab",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/112780-bosforo-esfiha-kebab"
+    },
+    {
+      "name": "Batata Inglesa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/113295-batata-inglesa"
+    },
+    {
+      "name": "Biscoit\u00ea - Morumbi Town",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/113401-biscoite-morumbi-town"
+    },
+    {
+      "name": "Bar E Restaurante Princesa da Tijuca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/113524-bar-e-restaurante-princesa-da-tijuca"
+    },
+    {
+      "name": "Brown Brownie",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/113587-brown-brownie"
+    },
+    {
+      "name": "Black Pizzas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/113930-black-pizzas"
+    },
+    {
+      "name": "Bon\u00edssima Raja",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/114223-bonissima-raja"
+    },
+    {
+      "name": "Bakebun Bakery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/114436-bakebun-bakery"
+    },
+    {
+      "name": "Black'n Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/114670-black-n-burger"
+    },
+    {
+      "name": "Brownieteria Sobresuamesa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/114688-brownieteria-sobresuamesa"
+    },
+    {
+      "name": "Blend Cacao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/115046-blend-cacao"
+    },
+    {
+      "name": "Beleleu Smash Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/115658-beleleu-smash-burger"
+    },
+    {
+      "name": "Boteco Rainha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/115733-boteco-rainha"
+    },
+    {
+      "name": "Barcelona Bystro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/115837-barcelona-bystro"
+    },
+    {
+      "name": "Barrenas Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/116018-barrenas-burger"
+    },
+    {
+      "name": "Bacalhau, Vinho e Cia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/116042-bacalhau-vinho-e-cia"
+    },
+    {
+      "name": "Bom de Sabor - Dionisio Torres",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/116238-bom-de-sabor-dionisio-torres"
+    },
+    {
+      "name": "BullHorn Burger\u2019s",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/116442-bullhorn-burgers"
+    },
+    {
+      "name": "Bio Dragon",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/116575-bio-dragon"
+    },
+    {
+      "name": "Burger Espacial",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/116644-burger-espacial"
+    },
+    {
+      "name": "Bigbites",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/116662-bigbites"
+    },
+    {
+      "name": "Burguer Bar Curitiba",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/117018-burguer-bar-curitiba"
+    },
+    {
+      "name": "Banca Graciosa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/117221-banca-graciosa"
+    },
+    {
+      "name": "Burger Story - \u00c1guas Claras",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/117368-burger-story-aguas-claras"
+    },
+    {
+      "name": "B.lem Vila Leopoldina",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/117522-b-lem-vila-leopoldina"
+    },
+    {
+      "name": "Burger da Pra\u00e7a",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/117613-burger-da-praca"
+    },
+    {
+      "name": "Bar da Pra\u00e7a",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/117616-bar-da-praca"
+    },
+    {
+      "name": "Bruta Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/117938-bruta-burguer"
+    },
+    {
+      "name": "BRASEIRO BURGER",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/117993-braseiro-burger"
+    },
+    {
+      "name": "Barriga Cheia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/118295-barriga-cheia"
+    },
+    {
+      "name": "Bubblekill- Campo Limpo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/118393-bubblekill-campo-limpo"
+    },
+    {
+      "name": "B.LEM Padaria Portuguesa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/118729-b-lem-padaria-portuguesa"
+    },
+    {
+      "name": "Buteko 101",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/118839-buteko-101"
+    },
+    {
+      "name": "Bistr\u00f4 \u00c0 Vin",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/119504-bistro-a-vin"
+    },
+    {
+      "name": "Brazilian Ice Cream - Setor Sudoeste",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/119556-brazilian-ice-cream-setor-sudoeste"
+    },
+    {
+      "name": "Biroscas Food - Sp",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/119603-biroscas-food-sp"
+    },
+    {
+      "name": "Brazilian American Burgers",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/119947-brazilian-american-burgers"
+    },
+    {
+      "name": "Bigorna",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/120105-bigorna"
+    },
+    {
+      "name": "BURGUER PORTO ESTACAO",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/120183-burguer-porto-estacao"
+    },
+    {
+      "name": "Bor\u00edlia Doces e Salgados",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/120375-borilia-doces-e-salgados"
+    },
+    {
+      "name": "Bar do Luiz - Express",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/120799-bar-do-luiz-express"
+    },
+    {
+      "name": "Brazilian Ice  Cream  Bic Norte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/120829-brazilian-ice-cream-bic-norte"
+    },
+    {
+      "name": "Boteco do Seu Ze",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/120897-boteco-do-seu-ze"
+    },
+    {
+      "name": "Burgueria Dos Anoes.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/120986-burgueria-dos-anoes"
+    },
+    {
+      "name": "Burger Lab - desde 2012",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/121065-burger-lab-desde-2012"
+    },
+    {
+      "name": "Boneca De Lili",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/121108-boneca-de-lili"
+    },
+    {
+      "name": "Burger Avexado",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/121137-burger-avexado"
+    },
+    {
+      "name": "bolos caseiros",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/121359-bolos-caseiros"
+    },
+    {
+      "name": "Bonsai Sushi Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/121402-bonsai-sushi-bar"
+    },
+    {
+      "name": "Br\u00fcder Kebab",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/121844-bruder-kebab"
+    },
+    {
+      "name": "Burger do Gordin",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/121952-burger-do-gordin"
+    },
+    {
+      "name": "Bokitas Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/122185-bokitas-lanches"
+    },
+    {
+      "name": "Bolos do Jhow",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/122198-bolos-do-jhow"
+    },
+    {
+      "name": "Bom Burgers",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/122264-bom-burgers"
+    },
+    {
+      "name": "B.LEM Padaria Portuguesa Alto de Pinheiros",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/122430-b-lem-padaria-portuguesa-alto-de-pinheiros"
+    },
+    {
+      "name": "BOM TEMPERO MARMITARIA",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/122605-bom-tempero-marmitaria"
+    },
+    {
+      "name": "Burger 9.3/4",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/122720-burger-9-3-4"
+    },
+    {
+      "name": "Beef's - Sandu\u00edche de Churrasco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/123095-beef-s-sanduiche-de-churrasco"
+    },
+    {
+      "name": "Billy Jhow Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/123374-billy-jhow-burger"
+    },
+    {
+      "name": "Burguer Inc",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/123395-burguer-inc"
+    },
+    {
+      "name": "Beike Doces",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/123644-beike-doces"
+    },
+    {
+      "name": "Box 16 Sushis",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/124012-box-16-sushis"
+    },
+    {
+      "name": "Broto & Cia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/124033-broto-cia"
+    },
+    {
+      "name": "Base Biergarten Av. Bento Gon\u00e7alves",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/124060-base-biergarten-av-bento-goncalves"
+    },
+    {
+      "name": "Brasa Oz",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/124367-brasa-oz"
+    },
+    {
+      "name": "Bel\u00f4 Doceria E Cafe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/125873-belo-doceria-e-cafe"
+    },
+    {
+      "name": "Balderi Pasta & Arte.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/126110-balderi-pasta-arte"
+    },
+    {
+      "name": "Bar E Restaurante Moura",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/126195-bar-e-restaurante-moura"
+    },
+    {
+      "name": "Bellbor - Santo Amaro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/126321-bellbor-santo-amaro"
+    },
+    {
+      "name": "Brigadu A\u00e7a\u00ed",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/126971-brigadu-acai"
+    },
+    {
+      "name": "Burguesia - Hamburguer Artesanal",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/127151-burguesia-hamburguer-artesanal"
+    },
+    {
+      "name": "Bar Espeto Na Brasa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/127347-bar-espeto-na-brasa"
+    },
+    {
+      "name": "Boulangerie - Grand Mercure",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/129590-boulangerie-grand-mercure"
+    },
+    {
+      "name": "Boa Vista Comedoria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/129723-boa-vista-comedoria"
+    },
+    {
+      "name": "Bonzao Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/129726-bonzao-lanches"
+    },
+    {
+      "name": "Bendita Empada Cafe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/130145-bendita-empada-cafe"
+    },
+    {
+      "name": "Boa Gula",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/130202-boa-gula"
+    },
+    {
+      "name": "Bella Delicatessen",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/130428-bella-delicatessen"
+    },
+    {
+      "name": "Bolos da Dinda",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/130992-bolos-da-dinda"
+    },
+    {
+      "name": "Beirutes e Hamburgueria Dimitris",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/131512-beirutes-e-hamburgueria-dimitris"
+    },
+    {
+      "name": "Brahman Steak House",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/131633-brahman-steak-house"
+    },
+    {
+      "name": "Brimo Express Culinaria Arabe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/131666-brimo-express-culinaria-arabe"
+    },
+    {
+      "name": "Bar do Mulao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/131998-bar-do-mulao"
+    },
+    {
+      "name": "Baby Donuts",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/132242-baby-donuts"
+    },
+    {
+      "name": "Bolos da Fofa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/132303-bolos-da-fofa"
+    },
+    {
+      "name": "Boleria do O",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/132458-boleria-do-o"
+    },
+    {
+      "name": "Bombadao Acai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/132485-bombadao-acai"
+    },
+    {
+      "name": "Boteco Jorge",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/132594-boteco-jorge"
+    },
+    {
+      "name": "Bar Petropolis",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/132766-bar-petropolis"
+    },
+    {
+      "name": "Batata Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/132861-batata-burger"
+    },
+    {
+      "name": "Bohemios Bar e Restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/133148-bohemios-bar-e-restaurante"
+    },
+    {
+      "name": "Bros Burguer Ii",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/133363-bros-burguer-ii"
+    },
+    {
+      "name": "Butique do Prensado",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/133459-butique-do-prensado"
+    },
+    {
+      "name": "Bar e Mercearia Caldas Ltda",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/133567-bar-e-mercearia-caldas-ltda"
+    },
+    {
+      "name": "Bar do Braz",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/133586-bar-do-braz"
+    },
+    {
+      "name": "Bel e Edi Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/133637-bel-e-edi-pizzaria"
+    },
+    {
+      "name": "Bar do Vadico",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/133660-bar-do-vadico"
+    },
+    {
+      "name": "Bar do Niltinho",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/133750-bar-do-niltinho"
+    },
+    {
+      "name": "Beco Bebidas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/133963-beco-bebidas"
+    },
+    {
+      "name": "Baity Delicias Arabes Artesanais",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/133999-baity-delicias-arabes-artesanais"
+    },
+    {
+      "name": "burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/134037-burguer"
+    },
+    {
+      "name": "Bugomilos Lanches Porcoes e Hot Dog",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/134043-bugomilos-lanches-porcoes-e-hot-dog"
+    },
+    {
+      "name": "Bar do Jm",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/134270-bar-do-jm"
+    },
+    {
+      "name": "Boteco Rabo de Saia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/134295-boteco-rabo-de-saia"
+    },
+    {
+      "name": "Brazuka S Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/134919-brazuka-s-delivery"
+    },
+    {
+      "name": "Bona Esfiha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/135244-bona-esfiha"
+    },
+    {
+      "name": "Bia Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/135343-bia-lanches"
+    },
+    {
+      "name": "Beirute Vila da Serra",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/135801-beirute-vila-da-serra"
+    },
+    {
+      "name": "Bilu Coffee And Cake",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/135814-bilu-coffee-and-cake"
+    },
+    {
+      "name": "Bartho Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/136008-bartho-bar"
+    },
+    {
+      "name": "Boloterapia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/136047-boloterapia"
+    },
+    {
+      "name": "Boteco e Restaurante Nordestino",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/136610-boteco-e-restaurante-nordestino"
+    },
+    {
+      "name": "Bar do Peixe 2 Peixaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/137221-bar-do-peixe-2-peixaria"
+    },
+    {
+      "name": "Buritis Bacon Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/137328-buritis-bacon-burger"
+    },
+    {
+      "name": "Bel Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/137346-bel-lanches"
+    },
+    {
+      "name": "boss hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/137676-boss-hamburgueria"
+    },
+    {
+      "name": "Bendito Cannoli Original",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/137693-bendito-cannoli-original"
+    },
+    {
+      "name": "Ba Dog",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/137893-ba-dog"
+    },
+    {
+      "name": "Bionatural",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/137907-bionatural"
+    },
+    {
+      "name": "Boka S Adega Bar 2 0",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/138182-boka-s-adega-bar-2-0"
+    },
+    {
+      "name": "Bubblekill Diadema",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/138302-bubblekill-diadema"
+    },
+    {
+      "name": "Bk Poke Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/138382-bk-poke-delivery"
+    },
+    {
+      "name": "Brunata Sorvetes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/138402-brunata-sorvetes"
+    },
+    {
+      "name": "Big Bread Padaria Confeitaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/138730-big-bread-padaria-confeitaria"
+    },
+    {
+      "name": "Big Fritas Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139031-big-fritas-burguer"
+    },
+    {
+      "name": "Biro Ska Burguers",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139139-biro-ska-burguers"
+    },
+    {
+      "name": "Bella Vitoria Vila Assuncao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139540-bella-vitoria-vila-assuncao"
+    },
+    {
+      "name": "Brutus Hamburgueria e Doces",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139558-brutus-hamburgueria-e-doces"
+    },
+    {
+      "name": "Buganville",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139617-buganville"
+    },
+    {
+      "name": "Boleria Paulista",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139657-boleria-paulista"
+    },
+    {
+      "name": "Boi Mais Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139686-boi-mais-grill"
+    },
+    {
+      "name": "bolo da madre",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139793-bolo-da-madre"
+    },
+    {
+      "name": "Breik Breik Sanduiches Lagoa da Pampulha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139817-breik-breik-sanduiches-lagoa-da-pampulha"
+    },
+    {
+      "name": "Bar 1 de Abril",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139913-bar-1-de-abril"
+    },
+    {
+      "name": "Big Jack",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139971-big-jack"
+    },
+    {
+      "name": "Bamboo Sushi House Temakeria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/139982-bamboo-sushi-house-temakeria"
+    },
+    {
+      "name": "Bar do Pedrosa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/140186-bar-do-pedrosa"
+    },
+    {
+      "name": "Brioche Paes e Doces",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/140281-brioche-paes-e-doces"
+    },
+    {
+      "name": "Becca Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/140314-becca-burger"
+    },
+    {
+      "name": "Br Mania Conveniencia Posto Garoupa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/140349-br-mania-conveniencia-posto-garoupa"
+    },
+    {
+      "name": "Bentos Beer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/140387-bentos-beer"
+    },
+    {
+      "name": "Bar e Lanchonete Regis",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/140484-bar-e-lanchonete-regis"
+    },
+    {
+      "name": "Bora Lanchar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/140666-bora-lanchar"
+    },
+    {
+      "name": "Bar do Seu Leandro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/140840-bar-do-seu-leandro"
+    },
+    {
+      "name": "Buffet Celia Soutto Mayor",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/140997-buffet-celia-soutto-mayor"
+    },
+    {
+      "name": "Bar e Restaurante Leo e Maria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/141025-bar-e-restaurante-leo-e-maria"
+    },
+    {
+      "name": "Bubblekill Shop Bandeiras",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/141153-bubblekill-shop-bandeiras"
+    },
+    {
+      "name": "Bar do Kazu",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/141190-bar-do-kazu"
+    },
+    {
+      "name": "B Sweetie Donuts Doces",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/141250-b-sweetie-donuts-doces"
+    },
+    {
+      "name": "Bar do Bolinho Santo Andre",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/141453-bar-do-bolinho-santo-andre"
+    },
+    {
+      "name": "Belart Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/141988-belart-pizzaria"
+    },
+    {
+      "name": "Bolo da Madre Guarulhos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/142110-bolo-da-madre-guarulhos"
+    },
+    {
+      "name": "Big Frango na Brasa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/142234-big-frango-na-brasa"
+    },
+    {
+      "name": "Beer Now",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/142310-beer-now"
+    },
+    {
+      "name": "Boteco do Porco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/142369-boteco-do-porco"
+    },
+    {
+      "name": "Bom do Baiao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/142446-bom-do-baiao"
+    },
+    {
+      "name": "Big Rango",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/142489-big-rango"
+    },
+    {
+      "name": "Bolo da Madre Ipiranga",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/142647-bolo-da-madre-ipiranga"
+    },
+    {
+      "name": "bbk steak house",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/142992-bbk-steak-house"
+    },
+    {
+      "name": "Bolinha Zona Leste",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/143160-bolinha-zona-leste"
+    },
+    {
+      "name": "Big Pao Express",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/143448-big-pao-express"
+    },
+    {
+      "name": "Beliscada",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/143476-beliscada"
+    },
+    {
+      "name": "Bar do Clovis",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/143568-bar-do-clovis"
+    },
+    {
+      "name": "Burguer da Vila",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/143614-burguer-da-vila"
+    },
+    {
+      "name": "Bolos e Doces Gourmet Choconatty",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/143682-bolos-e-doces-gourmet-choconatty"
+    },
+    {
+      "name": "Bebis Bebidas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/143886-bebis-bebidas"
+    },
+    {
+      "name": "Boteco Nha Barbina",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/143904-boteco-nha-barbina"
+    },
+    {
+      "name": "Bronx Marmits",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/144135-bronx-marmits"
+    },
+    {
+      "name": "Bebidas Bartz",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/144273-bebidas-bartz"
+    },
+    {
+      "name": "Bordo Gastro Vino",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/144349-bordo-gastro-vino"
+    },
+    {
+      "name": "Botequim Sapucai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/144475-botequim-sapucai"
+    },
+    {
+      "name": "Bar e Restaurante Paraiso",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/144587-bar-e-restaurante-paraiso"
+    },
+    {
+      "name": "Burger Mortadela",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/144835-burger-mortadela"
+    },
+    {
+      "name": "Bola Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/144837-bola-bar"
+    },
+    {
+      "name": "Bicho Solto Acai Sorvetes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/144874-bicho-solto-acai-sorvetes"
+    },
+    {
+      "name": "Banca 40",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145018-banca-40"
+    },
+    {
+      "name": "Benedict Caf\u00e9 & Bistr\u00f4",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145088-benedict-cafe-bistro"
+    },
+    {
+      "name": "Big Box",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145169-big-box"
+    },
+    {
+      "name": "Bandeirantes 4",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145232-bandeirantes-4"
+    },
+    {
+      "name": "Beggiato Restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145305-beggiato-restaurante"
+    },
+    {
+      "name": "Biscoitos Rosa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145318-biscoitos-rosa"
+    },
+    {
+      "name": "Bangalo Acai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145320-bangalo-acai"
+    },
+    {
+      "name": "Bella Roma Ristorante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145522-bella-roma-ristorante"
+    },
+    {
+      "name": "Batidasdg",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145529-batidasdg"
+    },
+    {
+      "name": "Bill Padaria e Restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145710-bill-padaria-e-restaurante"
+    },
+    {
+      "name": "Bolhas Burguer Jaragua",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/145789-bolhas-burguer-jaragua"
+    },
+    {
+      "name": "Bar e Restaurante Jacare",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/146016-bar-e-restaurante-jacare"
+    },
+    {
+      "name": "Beliskoz Barra Doces Tortas e Salgados",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/146350-beliskoz-barra-doces-tortas-e-salgados"
+    },
+    {
+      "name": "Burger do Et",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/146464-burger-do-et"
+    },
+    {
+      "name": "Brasileirinho Delivery Caicara",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/147191-brasileirinho-delivery-caicara"
+    },
+    {
+      "name": "Barcelona Esfiharia e Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/147246-barcelona-esfiharia-e-pizzaria"
+    },
+    {
+      "name": "Boteco No Capricho Espetinhos Petiscos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/147525-boteco-no-capricho-espetinhos-petiscos"
+    },
+    {
+      "name": "Burger Match Express",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/147917-burger-match-express"
+    },
+    {
+      "name": "Bubblekill Center 3",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/148716-bubblekill-center-3"
+    },
+    {
+      "name": "Bawarchi Indiano",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/148854-bawarchi-indiano"
+    },
+    {
+      "name": "B B J Boteco e Restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/148889-b-b-j-boteco-e-restaurante"
+    },
+    {
+      "name": "Borger Burger Mackenzie",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/148896-borger-burger-mackenzie"
+    },
+    {
+      "name": "Bell Mar Frutos do Mar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/149010-bell-mar-frutos-do-mar"
+    },
+    {
+      "name": "Brasou Churrasco Cia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/149410-brasou-churrasco-cia"
+    },
+    {
+      "name": "Boteco Rei do Rio",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/149472-boteco-rei-do-rio"
+    },
+    {
+      "name": "Beverly Hills Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/149621-beverly-hills-burger"
+    },
+    {
+      "name": "Bistro Nove",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/149679-bistro-nove"
+    },
+    {
+      "name": "Boston Bakery Padaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/149717-boston-bakery-padaria"
+    },
+    {
+      "name": "Burger 1007",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/149856-burger-1007"
+    },
+    {
+      "name": "Bonna Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/149879-bonna-pizzaria"
+    },
+    {
+      "name": "Bendita Comida Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/150074-bendita-comida-grill"
+    },
+    {
+      "name": "Bbj Santa Cecilia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/150918-bbj-santa-cecilia"
+    },
+    {
+      "name": "Bom Gusto Massas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151005-bom-gusto-massas"
+    },
+    {
+      "name": "Barakiah Pari",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151173-barakiah-pari"
+    },
+    {
+      "name": "Barakiah Santana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151206-barakiah-santana"
+    },
+    {
+      "name": "Bonde Paulista Pizzas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151285-bonde-paulista-pizzas"
+    },
+    {
+      "name": "Boteco Conrado",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151311-boteco-conrado"
+    },
+    {
+      "name": "Basilicata",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151352-basilicata"
+    },
+    {
+      "name": "Boizao Grill Analia Franco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151386-boizao-grill-analia-franco"
+    },
+    {
+      "name": "Bronx Comes e Bebes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151436-bronx-comes-e-bebes"
+    },
+    {
+      "name": "burguer place",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151445-burguer-place"
+    },
+    {
+      "name": "Big Jaba Restaurante e Casa do Norte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151523-big-jaba-restaurante-e-casa-do-norte"
+    },
+    {
+      "name": "Brabus Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151570-brabus-hamburgueria"
+    },
+    {
+      "name": "Burdega O Autentico Hamburguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151611-burdega-o-autentico-hamburguer"
+    },
+    {
+      "name": "Biyouz Gastronomia Africana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151824-biyouz-gastronomia-africana"
+    },
+    {
+      "name": "Bonhi Massas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151839-bonhi-massas"
+    },
+    {
+      "name": "Bacalhau e Vinho Itaim",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151858-bacalhau-e-vinho-itaim"
+    },
+    {
+      "name": "Bolo de Rolo Pernambucano",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151919-bolo-de-rolo-pernambucano"
+    },
+    {
+      "name": "Brooklyn Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/151983-brooklyn-burger"
+    },
+    {
+      "name": "Bella Napoli Pizzaria Bixiga",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/152260-bella-napoli-pizzaria-bixiga"
+    },
+    {
+      "name": "Boardworld Cafe Lounge Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/152602-boardworld-cafe-lounge-bar"
+    },
+    {
+      "name": "Bolo Du Bom Unidade Tatuape",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/152913-bolo-du-bom-unidade-tatuape"
+    },
+    {
+      "name": "Bikus Rotisserie",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/152950-bikus-rotisserie"
+    },
+    {
+      "name": "Bomboniere Docuras e Gostosuras",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/153090-bomboniere-docuras-e-gostosuras"
+    },
+    {
+      "name": "Balaio Ims Pra Viagem",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/153390-balaio-ims-pra-viagem"
+    },
+    {
+      "name": "Bolos Rosa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/153522-bolos-rosa"
+    },
+    {
+      "name": "Bonna Esfiha Progresso",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154310-bonna-esfiha-progresso"
+    },
+    {
+      "name": "Burguer Z",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154326-burguer-z"
+    },
+    {
+      "name": "Bomboniere Benatti",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154454-bomboniere-benatti"
+    },
+    {
+      "name": "Bom Gosto Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154480-bom-gosto-hamburgueria"
+    },
+    {
+      "name": "Bom Futuro Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154599-bom-futuro-burger"
+    },
+    {
+      "name": "Batatom",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154696-batatom"
+    },
+    {
+      "name": "Bolomania",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154717-bolomania"
+    },
+    {
+      "name": "Brios Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154793-brios-grill"
+    },
+    {
+      "name": "Bolos Acai Sovero",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154885-bolos-acai-sovero"
+    },
+    {
+      "name": "B J Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154908-b-j-hamburgueria"
+    },
+    {
+      "name": "Bolo da Madre Portal do Morumbi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/154938-bolo-da-madre-portal-do-morumbi"
+    },
+    {
+      "name": "B C Nutrindo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/155004-b-c-nutrindo"
+    },
+    {
+      "name": "Brasao do Espeto",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/155033-brasao-do-espeto"
+    },
+    {
+      "name": "Brasilia Grill Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/155121-brasilia-grill-delivery"
+    },
+    {
+      "name": "Berti S Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/155141-berti-s-pizza"
+    },
+    {
+      "name": "Bem Legal Pastelaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/155272-bem-legal-pastelaria"
+    },
+    {
+      "name": "Batata Dubom",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/155503-batata-dubom"
+    },
+    {
+      "name": "Bigode",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/156316-bigode"
+    },
+    {
+      "name": "Bubba Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/156328-bubba-burguer"
+    },
+    {
+      "name": "Biroska",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/156362-biroska"
+    },
+    {
+      "name": "Burger Shop Parque da Cidade",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/156665-burger-shop-parque-da-cidade"
+    },
+    {
+      "name": "Brasileirissimo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/157609-brasileirissimo"
+    },
+    {
+      "name": "Burguero Hamburgueria e Petiscaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/157981-burguero-hamburgueria-e-petiscaria"
+    },
+    {
+      "name": "Bella Doceria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/158198-bella-doceria"
+    },
+    {
+      "name": "Blem Padaria Portuguesa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/158829-blem-padaria-portuguesa"
+    },
+    {
+      "name": "Burgguers",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/158964-burgguers"
+    },
+    {
+      "name": "Braga Bakery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/158997-braga-bakery"
+    },
+    {
+      "name": "Boina Costelaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/159886-boina-costelaria"
+    },
+    {
+      "name": "Bravo Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/160004-bravo-hamburgueria"
+    },
+    {
+      "name": "Boteco Zelao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/160578-boteco-zelao"
+    },
+    {
+      "name": "Bl Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/160646-bl-burger"
+    },
+    {
+      "name": "Breik",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/160739-breik"
+    },
+    {
+      "name": "Boteco Joza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/161074-boteco-joza"
+    },
+    {
+      "name": "Bolanhus Fast Food",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/162161-bolanhus-fast-food"
+    },
+    {
+      "name": "Bem Assado Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/162639-bem-assado-grill"
+    },
+    {
+      "name": "Bomboss Doces",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/162795-bomboss-doces"
+    },
+    {
+      "name": "Bello Mar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/162854-bello-mar"
+    },
+    {
+      "name": "Babbo Giovanni Vila Francisco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/162956-babbo-giovanni-vila-francisco"
+    },
+    {
+      "name": "Burger Butanta",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/163105-burger-butanta"
+    },
+    {
+      "name": "Boa Mania",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/163682-boa-mania"
+    },
+    {
+      "name": "Buteco e Brasa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/163772-buteco-e-brasa"
+    },
+    {
+      "name": "Botequim Santo Andre",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/164011-botequim-santo-andre"
+    },
+    {
+      "name": "Big Pizzeria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/164087-big-pizzeria"
+    },
+    {
+      "name": "Buffet Fazzi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/164165-buffet-fazzi"
+    },
+    {
+      "name": "Bela Gula",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/164290-bela-gula"
+    },
+    {
+      "name": "Boca Roxa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/164361-boca-roxa"
+    },
+    {
+      "name": "Brigadeiria Gift Box",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/165745-brigadeiria-gift-box"
+    },
+    {
+      "name": "Brigaderia Nacional",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/165792-brigaderia-nacional"
+    },
+    {
+      "name": "Big Cabeca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/166105-big-cabeca"
+    },
+    {
+      "name": "Baby Fruta",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/166298-baby-fruta"
+    },
+    {
+      "name": "Bioqualitta",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/166333-bioqualitta"
+    },
+    {
+      "name": "Bellucci Gelateria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/166471-bellucci-gelateria"
+    },
+    {
+      "name": "Benevolo Cafe Gelato Abilhar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/166476-benevolo-cafe-gelato-abilhar"
+    },
+    {
+      "name": "Benevolo Cafe Gelato Mtabosa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/166484-benevolo-cafe-gelato-mtabosa"
+    },
+    {
+      "name": "Banca Icarai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/166589-banca-icarai"
+    },
+    {
+      "name": "Beer Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/168882-beer-burger"
+    },
+    {
+      "name": "Bonna Esfiha Betel",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/169282-bonna-esfiha-betel"
+    },
+    {
+      "name": "Brasil Cacau Central Plaza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/169648-brasil-cacau-central-plaza"
+    },
+    {
+      "name": "Brigadeiro Com Vc|",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/169655-brigadeiro-com-vc"
+    },
+    {
+      "name": "Bao Burger Hamburguer Artesanal",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/169689-bao-burger-hamburguer-artesanal"
+    },
+    {
+      "name": "Brave",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/169848-brave"
+    },
+    {
+      "name": "Blends Burger e Hot Dog",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/170691-blends-burger-e-hot-dog"
+    },
+    {
+      "name": "Baunilha Cupcakes Rua Francisco Ferrer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/170974-baunilha-cupcakes-rua-francisco-ferrer"
+    },
+    {
+      "name": "Burger Artesanal",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/171516-burger-artesanal"
+    },
+    {
+      "name": "Banca de Jornal com",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/171872-banca-de-jornal-com"
+    },
+    {
+      "name": "Boteco Amarelinho",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/172072-boteco-amarelinho"
+    },
+    {
+      "name": "Boteco D Maria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/173416-boteco-d-maria"
+    },
+    {
+      "name": "Batatudinha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/173990-batatudinha"
+    },
+    {
+      "name": "Bovino Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/175722-bovino-grill"
+    },
+    {
+      "name": "Bucaneiro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/175767-bucaneiro"
+    },
+    {
+      "name": "Bellucci Morosi Pizza e Gelato",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/175901-bellucci-morosi-pizza-e-gelato"
+    },
+    {
+      "name": "Bode e Brasa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/175920-bode-e-brasa"
+    },
+    {
+      "name": "Bellys Buffet Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/176200-bellys-buffet-delivery"
+    },
+    {
+      "name": "Brandao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/176691-brandao"
+    },
+    {
+      "name": "Big Te Bigte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/177124-big-te-bigte"
+    },
+    {
+      "name": "Broto de Bambu Churrasquinhos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/177378-broto-de-bambu-churrasquinhos"
+    },
+    {
+      "name": "Bier Stube",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/177777-bier-stube"
+    },
+    {
+      "name": "Black Anchor Coffee Co",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/177856-black-anchor-coffee-co"
+    },
+    {
+      "name": "Bangalo Dos Pasteis Condor Wenceslau",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/177877-bangalo-dos-pasteis-condor-wenceslau"
+    },
+    {
+      "name": "Broto Pizzas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/178777-broto-pizzas"
+    },
+    {
+      "name": "Batatouille",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/178934-batatouille"
+    },
+    {
+      "name": "Burguer Da Vila - Centro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/179157-burguer-da-vila-centro"
+    },
+    {
+      "name": "Bebelu Sandu\u00edches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/179287-bebelu-sanduiches"
+    },
+    {
+      "name": "B&t Vegan Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/179635-b-t-vegan-burguer"
+    },
+    {
+      "name": "Brooklyn Calzones",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/179667-brooklyn-calzones"
+    },
+    {
+      "name": "Bakery Pappas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/179920-bakery-pappas"
+    },
+    {
+      "name": "BURGER DO ZEKA",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/180438-burger-do-zeka"
+    },
+    {
+      "name": "Big X Picanha - Center Norte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/180557-big-x-picanha-center-norte"
+    },
+    {
+      "name": "Big X Picanha Itaquera",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/180581-big-x-picanha-itaquera"
+    },
+    {
+      "name": "Bagatela Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/180922-bagatela-lanches"
+    },
+    {
+      "name": "Bendita Comida",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/181309-bendita-comida"
+    },
+    {
+      "name": "Bonanza Hiper",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/181414-bonanza-hiper"
+    },
+    {
+      "name": "Babbo Pizzeria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/181628-babbo-pizzeria"
+    },
+    {
+      "name": "Burguer Mooca Art",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/181838-burguer-mooca-art"
+    },
+    {
+      "name": "Borba",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/182046-borba"
+    },
+    {
+      "name": "Burguer 90.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/182273-burguer-90"
+    },
+    {
+      "name": "Bonfim Bar e",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/182533-bonfim-bar-e"
+    },
+    {
+      "name": "Boulevard Comida Espetos e",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/182708-boulevard-comida-espetos-e"
+    },
+    {
+      "name": "Botucatu",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/182803-botucatu"
+    },
+    {
+      "name": "Ben Jerry",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/183023-ben-jerry"
+    },
+    {
+      "name": "Boutique Beef Passion",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/183028-boutique-beef-passion"
+    },
+    {
+      "name": "Brotinho Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/183247-brotinho-pizzaria"
+    },
+    {
+      "name": "Brasilia 61",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/183394-brasilia-61"
+    },
+    {
+      "name": "Boteco Pai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/183925-boteco-pai"
+    },
+    {
+      "name": "Black Hookah Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/183984-black-hookah-bar"
+    },
+    {
+      "name": "Buriti Ltda",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/184032-buriti-ltda"
+    },
+    {
+      "name": "Bem Casados Biscoito Regina e Cookies",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/184037-bem-casados-biscoito-regina-e-cookies"
+    },
+    {
+      "name": "Beatriz Flores Decoracoes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/184728-beatriz-flores-decoracoes"
+    },
+    {
+      "name": "Berti Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/184787-berti-pizza"
+    },
+    {
+      "name": "Brownie Do Binho.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/185032-brownie-do-binho"
+    },
+    {
+      "name": "Brito Pin Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/185463-brito-pin-burguer"
+    },
+    {
+      "name": "Bella Fogazza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/185798-bella-fogazza"
+    },
+    {
+      "name": "Baguncinha Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/186006-baguncinha-lanches"
+    },
+    {
+      "name": "Burguer Mais Sphookah",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/186054-burguer-mais-sphookah"
+    },
+    {
+      "name": "Bomboniere Pathe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/186671-bomboniere-pathe"
+    },
+    {
+      "name": "Bendito Bistro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/186723-bendito-bistro"
+    },
+    {
+      "name": "Boteco Fatima",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/186942-boteco-fatima"
+    },
+    {
+      "name": "Boomerang Pizzas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/187594-boomerang-pizzas"
+    },
+    {
+      "name": "Buteco Arrumado",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/187664-buteco-arrumado"
+    },
+    {
+      "name": "Bruta Pizza e Birra",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/187768-bruta-pizza-e-birra"
+    },
+    {
+      "name": "Brasileirinho Delivery Scs",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/187836-brasileirinho-delivery-scs"
+    },
+    {
+      "name": "Brothers Fogazzaria 2",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/187920-brothers-fogazzaria-2"
+    },
+    {
+      "name": "Betos Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/188090-betos-pizzaria"
+    },
+    {
+      "name": "Brigaderia Donna Moca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/188260-brigaderia-donna-moca"
+    },
+    {
+      "name": "Bbc Braz a Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/188335-bbc-braz-a-burger"
+    },
+    {
+      "name": "Barriga Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/188465-barriga-burger"
+    },
+    {
+      "name": "Boteco da Marcinha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/188468-boteco-da-marcinha"
+    },
+    {
+      "name": "Blue Docinhos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/188572-blue-docinhos"
+    },
+    {
+      "name": "Boteco Da Villa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/189038-boteco-da-villa"
+    },
+    {
+      "name": "Bendita Vo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/189173-bendita-vo"
+    },
+    {
+      "name": "Bodega l B To a Toa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/189423-bodega-l-b-to-a-toa"
+    },
+    {
+      "name": "Bora Comer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/189494-bora-comer"
+    },
+    {
+      "name": "Bubbleland Sorveteria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/189659-bubbleland-sorveteria"
+    },
+    {
+      "name": "Baguette na Brasa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/189714-baguette-na-brasa"
+    },
+    {
+      "name": "Burguer Net Acai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/189722-burguer-net-acai"
+    },
+    {
+      "name": "Butiquim Fleming",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/189742-butiquim-fleming"
+    },
+    {
+      "name": "Ben Jerry Pampulha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/189826-ben-jerry-pampulha"
+    },
+    {
+      "name": "Bitela Pizza Pampulha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/189849-bitela-pizza-pampulha"
+    },
+    {
+      "name": "Bom Sabor da Veronica",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/190062-bom-sabor-da-veronica"
+    },
+    {
+      "name": "Blumenau Carnes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/190222-blumenau-carnes"
+    },
+    {
+      "name": "Brassi Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/190315-brassi-pizzaria"
+    },
+    {
+      "name": "Bolo Caipira",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/190360-bolo-caipira"
+    },
+    {
+      "name": "Baba Salim",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/190607-baba-salim"
+    },
+    {
+      "name": "Brazilian Coffee",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/190645-brazilian-coffee"
+    },
+    {
+      "name": "Bencafe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/190715-bencafe"
+    },
+    {
+      "name": "Bom Queijo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/190769-bom-queijo"
+    },
+    {
+      "name": "Burger2home",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/190837-burger2home"
+    },
+    {
+      "name": "Buffalo Steak House",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/190878-buffalo-steak-house"
+    },
+    {
+      "name": "Bras Cozinha de Boteco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191043-bras-cozinha-de-boteco"
+    },
+    {
+      "name": "Benta Cana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191044-benta-cana"
+    },
+    {
+      "name": "Butiquim Tijuca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191179-butiquim-tijuca"
+    },
+    {
+      "name": "Bulldogs Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191186-bulldogs-burguer"
+    },
+    {
+      "name": "Biscoitos Feitos por Nos Tg",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191220-biscoitos-feitos-por-nos-tg"
+    },
+    {
+      "name": "Bessa Polpas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191349-bessa-polpas"
+    },
+    {
+      "name": "B K",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191368-b-k"
+    },
+    {
+      "name": "Bkd Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191398-bkd-pizza"
+    },
+    {
+      "name": "Br Mania Posto Estacao Dominique",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191496-br-mania-posto-estacao-dominique"
+    },
+    {
+      "name": "Boloebolo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191515-boloebolo"
+    },
+    {
+      "name": "Bang",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/191685-bang"
+    },
+    {
+      "name": "Boteco Regis",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/192173-boteco-regis"
+    },
+    {
+      "name": "Biscoiteria Barao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/192604-biscoiteria-barao"
+    },
+    {
+      "name": "Bella Dogueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/192744-bella-dogueria"
+    },
+    {
+      "name": "Boteco Paulista",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/192916-boteco-paulista"
+    },
+    {
+      "name": "Bella Madalena",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/193292-bella-madalena"
+    },
+    {
+      "name": "Bells Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/193406-bells-burguer"
+    },
+    {
+      "name": "Bon Mange",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/193692-bon-mange"
+    },
+    {
+      "name": "Bendita",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/193887-bendita"
+    },
+    {
+      "name": "Batata Frita Tereza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/193955-batata-frita-tereza"
+    },
+    {
+      "name": "Bistr\u00f4 Casa Mia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/194980-bistro-casa-mia"
+    },
+    {
+      "name": "Bizz Bom",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/195214-bizz-bom"
+    },
+    {
+      "name": "Benevolo North",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/195292-benevolo-north"
+    },
+    {
+      "name": "Bolo da Madre Guanabara",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/195350-bolo-da-madre-guanabara"
+    },
+    {
+      "name": "Butiquim Cia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/195389-butiquim-cia"
+    },
+    {
+      "name": "Burn Shisha Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/195904-burn-shisha-bar"
+    },
+    {
+      "name": "Bueno",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/195946-bueno"
+    },
+    {
+      "name": "Budega Meu Lindo Ipsep",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/196128-budega-meu-lindo-ipsep"
+    },
+    {
+      "name": "Br Mania Chame O Cunha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/196139-br-mania-chame-o-cunha"
+    },
+    {
+      "name": "Bon Jour Comfort Food",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/196219-bon-jour-comfort-food"
+    },
+    {
+      "name": "Burgrill Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/196353-burgrill-burger"
+    },
+    {
+      "name": "Bodega Seu Artur",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/196357-bodega-seu-artur"
+    },
+    {
+      "name": "Bento Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/196381-bento-pizza"
+    },
+    {
+      "name": "Biscoitos Feito por Nos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/196510-biscoitos-feito-por-nos"
+    },
+    {
+      "name": "Bien Manger Comedoria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/196531-bien-manger-comedoria"
+    },
+    {
+      "name": "Bruno Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/197034-bruno-pizza"
+    },
+    {
+      "name": "Boa Mistura",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/197040-boa-mistura"
+    },
+    {
+      "name": "Brazinha Grill 2",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/197041-brazinha-grill-2"
+    },
+    {
+      "name": "Bom Sabor Self Service",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/197093-bom-sabor-self-service"
+    },
+    {
+      "name": "Bebelu Sanduiches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/197108-bebelu-sanduiches"
+    },
+    {
+      "name": "Benevolo Cafe Gelato Benfica",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/197395-benevolo-cafe-gelato-benfica"
+    },
+    {
+      "name": "Bella Massa Panificadora",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/197953-bella-massa-panificadora"
+    },
+    {
+      "name": "Burguer Acai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/198140-burguer-acai"
+    },
+    {
+      "name": "Bem Me Quer Confeitaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/198313-bem-me-quer-confeitaria"
+    },
+    {
+      "name": "Boteco da Vila sem Miseria Dog",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/198439-boteco-da-vila-sem-miseria-dog"
+    },
+    {
+      "name": "Br Quitutes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/198601-br-quitutes"
+    },
+    {
+      "name": "Bistro Carioca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/198757-bistro-carioca"
+    },
+    {
+      "name": "Bia Food Marmiteria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/198933-bia-food-marmiteria"
+    },
+    {
+      "name": "Brownie Beka",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/199052-brownie-beka"
+    },
+    {
+      "name": "Barraca Bahiano",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/199159-barraca-bahiano"
+    },
+    {
+      "name": "Brasa Beef",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/199442-brasa-beef"
+    },
+    {
+      "name": "Boi Espetos Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/199817-boi-espetos-bar"
+    },
+    {
+      "name": "Bru Gadeiros",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/200287-bru-gadeiros"
+    },
+    {
+      "name": "Bem Acai e Sucos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/200511-bem-acai-e-sucos"
+    },
+    {
+      "name": "Bh Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/200715-bh-pizza"
+    },
+    {
+      "name": "Bolos da Tia Ci",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/200814-bolos-da-tia-ci"
+    },
+    {
+      "name": "Barcana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/200962-barcana"
+    },
+    {
+      "name": "Bolhas Burguer Dona Clara e Pampulha",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/201169-bolhas-burguer-dona-clara-e-pampulha"
+    },
+    {
+      "name": "Biscoitos Dona Lourdes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/201326-biscoitos-dona-lourdes"
+    },
+    {
+      "name": "Bh Japa Unidade Santa Ines",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/201376-bh-japa-unidade-santa-ines"
+    },
+    {
+      "name": "Boteco Coisa de Mineiro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/201416-boteco-coisa-de-mineiro"
+    },
+    {
+      "name": "Beto Sushi Culinaria Japonesa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/201434-beto-sushi-culinaria-japonesa"
+    },
+    {
+      "name": "Best Banoffee",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/201953-best-banoffee"
+    },
+    {
+      "name": "Burgueria Diamante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/202455-burgueria-diamante"
+    },
+    {
+      "name": "Batataria da Praca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/202500-batataria-da-praca"
+    },
+    {
+      "name": "Betinho Sanduiche",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/202591-betinho-sanduiche"
+    },
+    {
+      "name": "Burgueria Qg 55",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/203147-burgueria-qg-55"
+    },
+    {
+      "name": "Bendito Seja",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/203698-bendito-seja"
+    },
+    {
+      "name": "Baytakao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/203779-baytakao"
+    },
+    {
+      "name": "Bora Cafe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/203860-bora-cafe"
+    },
+    {
+      "name": "Black lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/203890-black-lanches"
+    },
+    {
+      "name": "Bapka Sorvetes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/204086-bapka-sorvetes"
+    },
+    {
+      "name": "Bem Estar Life Df",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/205338-bem-estar-life-df"
+    },
+    {
+      "name": "Banca Galega e Buga",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/205438-banca-galega-e-buga"
+    },
+    {
+      "name": "Big Brother Bar e Lancheria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/205789-big-brother-bar-e-lancheria"
+    },
+    {
+      "name": "Boom Congelados",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/205810-boom-congelados"
+    },
+    {
+      "name": "Brio Coffee Stand",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/205937-brio-coffee-stand"
+    },
+    {
+      "name": "Bar E Hamburgueria Gauch\u00e3o",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/207114-bar-e-hamburgueria-gauchao"
+    },
+    {
+      "name": "Bullhorn Burger\u2019s",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/207797-bullhorn-burgers"
+    },
+    {
+      "name": "BISCOITO ARAX\u00c1",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/208129-biscoito-araxa"
+    },
+    {
+      "name": "Boi na Chapa Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/208140-boi-na-chapa-hamburgueria"
+    },
+    {
+      "name": "Big Burg's do Jo\u00e3o",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/208288-big-burg-s-do-joao"
+    },
+    {
+      "name": "Bonhi Massas.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/208299-bonhi-massas"
+    },
+    {
+      "name": "Bentoo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/208610-bentoo"
+    },
+    {
+      "name": "Belem Galeto",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/209068-belem-galeto"
+    },
+    {
+      "name": "Br Mania Posto Sao Joao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/209299-br-mania-posto-sao-joao"
+    },
+    {
+      "name": "Break",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/209343-break"
+    },
+    {
+      "name": "Blums Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/209353-blums-burguer"
+    },
+    {
+      "name": "Beirutes e Esfiharia Jardins",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/209593-beirutes-e-esfiharia-jardins"
+    },
+    {
+      "name": "Buffet Huba Duba",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/209837-buffet-huba-duba"
+    },
+    {
+      "name": "B Burger Sbc",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/210020-b-burger-sbc"
+    },
+    {
+      "name": "Bibo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/210031-bibo"
+    },
+    {
+      "name": "Bonforno Pizzaria Jd Estadio",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/210128-bonforno-pizzaria-jd-estadio"
+    },
+    {
+      "name": "Bella Gran Pizzeria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/210316-bella-gran-pizzeria"
+    },
+    {
+      "name": "Baiao de Todos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/210411-baiao-de-todos"
+    },
+    {
+      "name": "Baiao de Todos 2 Ctn Limao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/210469-baiao-de-todos-2-ctn-limao"
+    },
+    {
+      "name": "Brasileirinho Delivery Limao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/210491-brasileirinho-delivery-limao"
+    },
+    {
+      "name": "Bravo A\u00e7a\u00ed - Bowls",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/210858-bravo-acai-bowls"
+    },
+    {
+      "name": "Bulldog Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/210899-bulldog-hamburgueria"
+    },
+    {
+      "name": "Bar do Wave - Beer, BBQ & Blablabl\u00e1",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/210947-bar-do-wave-beer-bbq-blablabla"
+    },
+    {
+      "name": "Bellisari Ltda",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211061-bellisari-ltda"
+    },
+    {
+      "name": "Brazil Picante Express",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211265-brazil-picante-express"
+    },
+    {
+      "name": "Berloques Chocolatier",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211267-berloques-chocolatier"
+    },
+    {
+      "name": "Buena Onda Gastronomia de Rua",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211283-buena-onda-gastronomia-de-rua"
+    },
+    {
+      "name": "Barolho",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211291-barolho"
+    },
+    {
+      "name": "Bembom Espetinhos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211398-bembom-espetinhos"
+    },
+    {
+      "name": "Bocage",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211432-bocage"
+    },
+    {
+      "name": "Bargaco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211596-bargaco"
+    },
+    {
+      "name": "Beths Pizza e",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211661-beths-pizza-e"
+    },
+    {
+      "name": "Boi Neon",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211685-boi-neon"
+    },
+    {
+      "name": "Burgerbar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211721-burgerbar"
+    },
+    {
+      "name": "Botequim Das Massas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211836-botequim-das-massas"
+    },
+    {
+      "name": "Bistro Mineiro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/211839-bistro-mineiro"
+    },
+    {
+      "name": "Beach Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212014-beach-bar"
+    },
+    {
+      "name": "Bardo Cafe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212068-bardo-cafe"
+    },
+    {
+      "name": "Burguerino",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212087-burguerino"
+    },
+    {
+      "name": "Bravell Fast Food Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212095-bravell-fast-food-delivery"
+    },
+    {
+      "name": "Bella Massas For 2",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212364-bella-massas-for-2"
+    },
+    {
+      "name": "Bardot",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212526-bardot"
+    },
+    {
+      "name": "Bharon",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212830-bharon"
+    },
+    {
+      "name": "Beto Super Dog Ltda",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212872-beto-super-dog-ltda"
+    },
+    {
+      "name": "Broto da Terra",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212895-broto-da-terra"
+    },
+    {
+      "name": "Bola Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212897-bola-grill"
+    },
+    {
+      "name": "Beto Guilherme",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/212910-beto-guilherme"
+    },
+    {
+      "name": "Bartalhao Sargento",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/214009-bartalhao-sargento"
+    },
+    {
+      "name": "Blend 53 Cafes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/214609-blend-53-cafes"
+    },
+    {
+      "name": "Boutique Bbq",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/214629-boutique-bbq"
+    },
+    {
+      "name": "B4 Food Gastronomia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/215602-b4-food-gastronomia"
+    },
+    {
+      "name": "Bolos da Vov\u00f3",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/217874-bolos-da-vovo"
+    },
+    {
+      "name": "Bolados Lanches.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/217941-bolados-lanches"
+    },
+    {
+      "name": "Bistecao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/218430-bistecao"
+    },
+    {
+      "name": "Bill Esfiha.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/219866-bill-esfiha"
+    },
+    {
+      "name": "Brado em Casa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/220522-brado-em-casa"
+    },
+    {
+      "name": "Burger Store Havai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/220667-burger-store-havai"
+    },
+    {
+      "name": "Barao Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/220739-barao-grill"
+    },
+    {
+      "name": "Bonanova Pizzas e Esfihas Mandaqui",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/221850-bonanova-pizzas-e-esfihas-mandaqui"
+    },
+    {
+      "name": "Beer Rock Club",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/225508-beer-rock-club"
+    },
+    {
+      "name": "Brasao Burguers",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/227053-brasao-burguers"
+    },
+    {
+      "name": "Boisucesso",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/227768-boisucesso"
+    },
+    {
+      "name": "Berinjela Grelhada",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/227776-berinjela-grelhada"
+    },
+    {
+      "name": "Bebelu Sandu\u00edches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/227928-bebelu-sanduiches"
+    },
+    {
+      "name": "Bent\u00f4 Mix",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/228162-bento-mix"
+    },
+    {
+      "name": "Brauhaus",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/228231-brauhaus"
+    },
+    {
+      "name": "Big X Picanha - Jardim Montanha.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/228466-big-x-picanha-jardim-montanha"
+    },
+    {
+      "name": "Boy",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/230133-boy"
+    },
+    {
+      "name": "Boutique Gula",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/231619-boutique-gula"
+    },
+    {
+      "name": "Butyke Dos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/233338-butyke-dos"
+    },
+    {
+      "name": "Bside Burgers E Bowls Berrini",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/233882-bside-burgers-e-bowls-berrini"
+    },
+    {
+      "name": "Bello Beef",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/235546-bello-beef"
+    },
+    {
+      "name": "Buzz Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/237367-buzz-burguer"
+    },
+    {
+      "name": "Bolos Sobremesas e Tapiocas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/238628-bolos-sobremesas-e-tapiocas"
+    },
+    {
+      "name": "Burning Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/238664-burning-burguer"
+    },
+    {
+      "name": "Bella Massa Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/239500-bella-massa-pizzaria"
+    },
+    {
+      "name": "Baruc",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/240748-baruc"
+    },
+    {
+      "name": "Brow Pastelaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/240909-brow-pastelaria"
+    },
+    {
+      "name": "Bendita Costela",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/242665-bendita-costela"
+    },
+    {
+      "name": "Bacia De Chipotle",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/243329-bacia-de-chipotle"
+    },
+    {
+      "name": "Batata Cabral",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/243549-batata-cabral"
+    },
+    {
+      "name": "Bonna Panquecas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/244326-bonna-panquecas"
+    },
+    {
+      "name": "Brooklyn  Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/244989-brooklyn-burger"
+    },
+    {
+      "name": "Bolachas Vovo Elza Boa Vista",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/245519-bolachas-vovo-elza-boa-vista"
+    },
+    {
+      "name": "Bolao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/249522-bolao"
+    },
+    {
+      "name": "Bar do Espartano",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/250740-bar-do-espartano"
+    },
+    {
+      "name": "Bennys Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/251082-bennys-burguer"
+    },
+    {
+      "name": "Bapka Jardim das Am\u00e9ricas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/251414-bapka-jardim-das-americas"
+    },
+    {
+      "name": "Boteco Vidottinho - Cambui",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/252452-boteco-vidottinho-cambui"
+    },
+    {
+      "name": "Bom Paladar - Centro Hist\u00f3rico",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/252715-bom-paladar-centro-historico"
+    },
+    {
+      "name": "Black Poke - by Black Sushi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/253111-black-poke-by-black-sushi"
+    },
+    {
+      "name": "Bella Pizza Gourmet - Fortaleza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/253338-bella-pizza-gourmet-fortaleza"
+    },
+    {
+      "name": "Bem Bom",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/253430-bem-bom"
+    },
+    {
+      "name": "Bar Brahma - Republica",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/253724-bar-brahma-republica"
+    },
+    {
+      "name": "Bara Sushi Tucuruvi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/253830-bara-sushi-tucuruvi"
+    },
+    {
+      "name": "Brasil Orat\u00f3rio",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/253995-brasil-oratorio"
+    },
+    {
+      "name": "Bastarda Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/255181-bastarda-pizza"
+    },
+    {
+      "name": "Bandeira Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/255190-bandeira-lanches"
+    },
+    {
+      "name": "Bella chic",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/255203-bella-chic"
+    },
+    {
+      "name": "Big X Picanha - Vale Sul",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/255840-big-x-picanha-vale-sul"
+    },
+    {
+      "name": "Baden Lanches Campinas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/256458-baden-lanches-campinas"
+    },
+    {
+      "name": "Battataria Zurique",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/257236-battataria-zurique"
+    },
+    {
+      "name": "Bendito A\u00e7a\u00ed - Belo Horizonte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/259908-bendito-acai-belo-horizonte"
+    },
+    {
+      "name": "Brasa Forte Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/259997-brasa-forte-burger"
+    },
+    {
+      "name": "Burger Sert\u00e3o Brasileiro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/260051-burger-sertao-brasileiro"
+    },
+    {
+      "name": "BIG SUR",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/261340-big-sur"
+    },
+    {
+      "name": "Bendito Parmegiana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/261346-bendito-parmegiana"
+    },
+    {
+      "name": "Bendito Italiano",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/261351-bendito-italiano"
+    },
+    {
+      "name": "Bendito Strogonoff-",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/261385-bendito-strogonoff"
+    },
+    {
+      "name": "Barril Grill Carne do sol",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/261445-barril-grill-carne-do-sol"
+    },
+    {
+      "name": "Birosca S2.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/261796-birosca-s2"
+    },
+    {
+      "name": "Beach Dog - Florian\u00f3polis",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/261875-beach-dog-florianopolis"
+    },
+    {
+      "name": "Buffet e Marmitex Gosto Bom",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/263048-buffet-e-marmitex-gosto-bom"
+    },
+    {
+      "name": "Bl Marmitex",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/264037-bl-marmitex"
+    },
+    {
+      "name": "Batatas Creck",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/264445-batatas-creck"
+    },
+    {
+      "name": "Boto A\u00e7aiteria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/267700-boto-acaiteria"
+    },
+    {
+      "name": "Burguer Do N\u00f4 - Boa Viagem",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/267928-burguer-do-no-boa-viagem"
+    },
+    {
+      "name": "Burgui Food Pinheiros",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/268730-burgui-food-pinheiros"
+    },
+    {
+      "name": "Boteco Xis",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/272168-boteco-xis"
+    },
+    {
+      "name": "Band Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/272772-band-burger"
+    },
+    {
+      "name": "Brothers Pizzaria e Pastelaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/275029-brothers-pizzaria-e-pastelaria"
+    },
+    {
+      "name": "Bar do Messias - O Rei do Jab\u00e1",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/275151-bar-do-messias-o-rei-do-jaba"
+    },
+    {
+      "name": "Bruno Coxinhas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/275589-bruno-coxinhas"
+    },
+    {
+      "name": "Bom D",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/276794-bom-d"
+    },
+    {
+      "name": "Br Mania Posto Sol Poente",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/278083-br-mania-posto-sol-poente"
+    },
+    {
+      "name": "Brooklyn",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/278639-brooklyn"
+    },
+    {
+      "name": "Baleno Cafe e",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/279731-baleno-cafe-e"
+    },
+    {
+      "name": "Buon Gusto Parapua",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/281697-buon-gusto-parapua"
+    },
+    {
+      "name": "Big Point Ii",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/281987-big-point-ii"
+    },
+    {
+      "name": "Botequim Mau\u00e1 Rua Pernambuco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/283373-botequim-maua-rua-pernambuco"
+    },
+    {
+      "name": "Bella Roma",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/283472-bella-roma"
+    },
+    {
+      "name": "Bbq",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/284064-bbq"
+    },
+    {
+      "name": "Bella Redonda - S\u00e3o Bernardo do Campo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/284470-bella-redonda-sao-bernardo-do-campo"
+    },
+    {
+      "name": "Bendito A\u00e7a\u00ed - An\u00e1lia Franco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/284860-bendito-acai-analia-franco"
+    },
+    {
+      "name": "Boka Loka 3",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/284954-boka-loka-3"
+    },
+    {
+      "name": "Beija Flor Vila Antonieta",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/285043-beija-flor-vila-antonieta"
+    },
+    {
+      "name": "Berg",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/285354-berg"
+    },
+    {
+      "name": "Benedito Cozinha Caseira",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/285741-benedito-cozinha-caseira"
+    },
+    {
+      "name": "Boteco Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/285753-boteco-bar"
+    },
+    {
+      "name": "Burguesfromhell",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/286247-burguesfromhell"
+    },
+    {
+      "name": "Bregoso Burguer Zona Sul",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/286583-bregoso-burguer-zona-sul"
+    },
+    {
+      "name": "Barraca da Tia Graca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/286743-barraca-da-tia-graca"
+    },
+    {
+      "name": "Bola",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/286757-bola"
+    },
+    {
+      "name": "Beth Marmitex Ii",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/287815-beth-marmitex-ii"
+    },
+    {
+      "name": "Baiao Esquina Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/287934-baiao-esquina-grill"
+    },
+    {
+      "name": "Biergarten Munique",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/288575-biergarten-munique"
+    },
+    {
+      "name": "Boteco Cico",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/289079-boteco-cico"
+    },
+    {
+      "name": "Brittu Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/289499-brittu-pizza"
+    },
+    {
+      "name": "Baco Pizzaria Asa Norte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/289809-baco-pizzaria-asa-norte"
+    },
+    {
+      "name": "Bill Frango",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/289939-bill-frango"
+    },
+    {
+      "name": "Budog Hotdog",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/290320-budog-hotdog"
+    },
+    {
+      "name": "Borges Prato Fino",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/290490-borges-prato-fino"
+    },
+    {
+      "name": "Boca Forno Doces Salgados",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/290519-boca-forno-doces-salgados"
+    },
+    {
+      "name": "Barchef",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/291126-barchef"
+    },
+    {
+      "name": "Bem Te Vi Churrascaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/291356-bem-te-vi-churrascaria"
+    },
+    {
+      "name": "Belladona Pizzaria e Esfiharia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/291549-belladona-pizzaria-e-esfiharia"
+    },
+    {
+      "name": "Big Esfiha Delivery California",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/291625-big-esfiha-delivery-california"
+    },
+    {
+      "name": "Bocas Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/292424-bocas-burger"
+    },
+    {
+      "name": "Burger Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/293139-burger-lanches"
+    },
+    {
+      "name": "Bistrot Tarte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/294130-bistrot-tarte"
+    },
+    {
+      "name": "Beto Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/294313-beto-grill"
+    },
+    {
+      "name": "Berrini Tapioca Acai com Mate",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/295995-berrini-tapioca-acai-com-mate"
+    },
+    {
+      "name": "Brasileirinho Delivery Sp Centro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/296460-brasileirinho-delivery-sp-centro"
+    },
+    {
+      "name": "Biga Assados",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/297231-biga-assados"
+    },
+    {
+      "name": "Brasi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/297702-brasi"
+    },
+    {
+      "name": "Brescia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/297997-brescia"
+    },
+    {
+      "name": "Bu Tu Mak",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/298720-bu-tu-mak"
+    },
+    {
+      "name": "Bombafo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/298726-bombafo"
+    },
+    {
+      "name": "Brasa Joquei Club",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/299558-brasa-joquei-club"
+    },
+    {
+      "name": "Barbas e Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/299656-barbas-e-pizzaria"
+    },
+    {
+      "name": "Baiao Ceara",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/299760-baiao-ceara"
+    },
+    {
+      "name": "Bom Suco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/299951-bom-suco"
+    },
+    {
+      "name": "Bellu Doces e Salgados",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/300019-bellu-doces-e-salgados"
+    },
+    {
+      "name": "Betos e Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/300296-betos-e-pizzaria"
+    },
+    {
+      "name": "Big Net Sorveteria Self Service Frosty",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/300708-big-net-sorveteria-self-service-frosty"
+    },
+    {
+      "name": "Barco Acai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/300950-barco-acai"
+    },
+    {
+      "name": "Botica",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/301592-botica"
+    },
+    {
+      "name": "Bate Papo com Vr",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/301610-bate-papo-com-vr"
+    },
+    {
+      "name": "Big Dog Hot",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/301811-big-dog-hot"
+    },
+    {
+      "name": "Bento Abe Bar e",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/302071-bento-abe-bar-e"
+    },
+    {
+      "name": "Big Bife",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/302304-big-bife"
+    },
+    {
+      "name": "Borges Fogao a Lenha Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/302754-borges-fogao-a-lenha-bar"
+    },
+    {
+      "name": "Burguer e Acai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/303170-burguer-e-acai"
+    },
+    {
+      "name": "Bella Sicilia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/303581-bella-sicilia"
+    },
+    {
+      "name": "British Club",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/304285-british-club"
+    },
+    {
+      "name": "Bistro Ze",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/304425-bistro-ze"
+    },
+    {
+      "name": "Bola Rola Sport Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/304941-bola-rola-sport-bar"
+    },
+    {
+      "name": "Burger180Df",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/304983-burger180df"
+    },
+    {
+      "name": "Bolados",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/305154-bolados"
+    },
+    {
+      "name": "Bistreco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/306174-bistreco"
+    },
+    {
+      "name": "Bon Pan Panificadora e Confeitaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/306603-bon-pan-panificadora-e-confeitaria"
+    },
+    {
+      "name": "Bao Tamem",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/306640-bao-tamem"
+    },
+    {
+      "name": "Bokitas Sabores Tres Rios",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/307176-bokitas-sabores-tres-rios"
+    },
+    {
+      "name": "Benvinda Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/307353-benvinda-delivery"
+    },
+    {
+      "name": "Bena Service",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/307354-bena-service"
+    },
+    {
+      "name": "Botequim Pedro Ii",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/307736-botequim-pedro-ii"
+    },
+    {
+      "name": "Betos Sushi Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/307745-betos-sushi-bar"
+    },
+    {
+      "name": "Bebelu",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/307853-bebelu"
+    },
+    {
+      "name": "Bello Piatto",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/308109-bello-piatto"
+    },
+    {
+      "name": "Boteco Redentor",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/308180-boteco-redentor"
+    },
+    {
+      "name": "Beg Pizzas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/308209-beg-pizzas"
+    },
+    {
+      "name": "Bella Capri Baden",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/308792-bella-capri-baden"
+    },
+    {
+      "name": "Brasileirinho Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/309580-brasileirinho-grill"
+    },
+    {
+      "name": "Barraca Ff",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/309822-barraca-ff"
+    },
+    {
+      "name": "Bella Idea",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/310047-bella-idea"
+    },
+    {
+      "name": "Bufalat Sbc",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/310156-bufalat-sbc"
+    },
+    {
+      "name": "Book e Cafe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/310276-book-e-cafe"
+    },
+    {
+      "name": "Back",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/310465-back"
+    },
+    {
+      "name": "Braz Leme",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/310581-braz-leme"
+    },
+    {
+      "name": "Breja In Box",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/311243-breja-in-box"
+    },
+    {
+      "name": "Bolao Restaurant",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/312161-bolao-restaurant"
+    },
+    {
+      "name": "Bergut Vinho Bistro Castelo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/312340-bergut-vinho-bistro-castelo"
+    },
+    {
+      "name": "Bakery Paula Bueno",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/312398-bakery-paula-bueno"
+    },
+    {
+      "name": "Bolole",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/312907-bolole"
+    },
+    {
+      "name": "Bakery St Bartholomew",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/313171-bakery-st-bartholomew"
+    },
+    {
+      "name": "Banca Salgados Adilson",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/313653-banca-salgados-adilson"
+    },
+    {
+      "name": "Belo Sabor Panificadora e",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/313914-belo-sabor-panificadora-e"
+    },
+    {
+      "name": "Bepas e",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/314599-bepas-e"
+    },
+    {
+      "name": "Big Mall",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/314794-big-mall"
+    },
+    {
+      "name": "Bequinho",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/315740-bequinho"
+    },
+    {
+      "name": "Batata Alemao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/315846-batata-alemao"
+    },
+    {
+      "name": "Boteco da Patroa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/315962-boteco-da-patroa"
+    },
+    {
+      "name": "Bakana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/316050-bakana"
+    },
+    {
+      "name": "Banza Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/316520-banza-hamburgueria"
+    },
+    {
+      "name": "Big Bread",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/316606-big-bread"
+    },
+    {
+      "name": "Brodo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/316663-brodo"
+    },
+    {
+      "name": "Barbazul",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/316684-barbazul"
+    },
+    {
+      "name": "Bovinu Churrascaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/316836-bovinu-churrascaria"
+    },
+    {
+      "name": "Botiquinho",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/316931-botiquinho"
+    },
+    {
+      "name": "Bom Ra",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/316950-bom-ra"
+    },
+    {
+      "name": "Bakery Leticia Vila Madalena",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/316957-bakery-leticia-vila-madalena"
+    },
+    {
+      "name": "Benjamim Botequim",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/316995-benjamim-botequim"
+    },
+    {
+      "name": "Boteco Ouzar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317032-boteco-ouzar"
+    },
+    {
+      "name": "Baretto",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317063-baretto"
+    },
+    {
+      "name": "Boizao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317071-boizao"
+    },
+    {
+      "name": "Bek Bar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317128-bek-bar"
+    },
+    {
+      "name": "Bovinu Reboucas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317143-bovinu-reboucas"
+    },
+    {
+      "name": "Bread Company",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317144-bread-company"
+    },
+    {
+      "name": "Betos Sushi Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317155-betos-sushi-pizzaria"
+    },
+    {
+      "name": "Balcao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317247-balcao"
+    },
+    {
+      "name": "Bifao Dico e Cristina",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317446-bifao-dico-e-cristina"
+    },
+    {
+      "name": "Beleleu",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317530-beleleu"
+    },
+    {
+      "name": "Bovinu Fast Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317539-bovinu-fast-grill"
+    },
+    {
+      "name": "Bardo Tatara",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317545-bardo-tatara"
+    },
+    {
+      "name": "Bella Trigueira",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317596-bella-trigueira"
+    },
+    {
+      "name": "Bona Notte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317680-bona-notte"
+    },
+    {
+      "name": "Boiadeiro Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317800-boiadeiro-grill"
+    },
+    {
+      "name": "Biroska The Carlao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317916-biroska-the-carlao"
+    },
+    {
+      "name": "Bom Scotch",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/317960-bom-scotch"
+    },
+    {
+      "name": "Barceloneta",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/318235-barceloneta"
+    },
+    {
+      "name": "Boteco Exportacao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/318278-boteco-exportacao"
+    },
+    {
+      "name": "Bananeiras",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/318325-bananeiras"
+    },
+    {
+      "name": "Botequim do Itaim",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/318355-botequim-do-itaim"
+    },
+    {
+      "name": "Bela Portuense",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/318473-bela-portuense"
+    },
+    {
+      "name": "Banlay",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/318563-banlay"
+    },
+    {
+      "name": "Bela Dama",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/318633-bela-dama"
+    },
+    {
+      "name": "Buteko Ze Brejo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/319029-buteko-ze-brejo"
+    },
+    {
+      "name": "Batistella Churrascaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/319208-batistella-churrascaria"
+    },
+    {
+      "name": "Boa Esperanca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/319500-boa-esperanca"
+    },
+    {
+      "name": "Brasporto",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/319786-brasporto"
+    },
+    {
+      "name": "Boteco da Skina",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/320489-boteco-da-skina"
+    },
+    {
+      "name": "Bistro Villarino",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/320614-bistro-villarino"
+    },
+    {
+      "name": "Bedoni Bistro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/320789-bedoni-bistro"
+    },
+    {
+      "name": "Box 62",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/320860-box-62"
+    },
+    {
+      "name": "Bouchon Recife",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/321075-bouchon-recife"
+    },
+    {
+      "name": "Bakery St Francisco Assis",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/321776-bakery-st-francisco-assis"
+    },
+    {
+      "name": "Banca Espetinho e da Batata Frita",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/321937-banca-espetinho-e-da-batata-frita"
+    },
+    {
+      "name": "Belo Kiss",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/323440-belo-kiss"
+    },
+    {
+      "name": "Brocado Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/323627-brocado-pizza"
+    },
+    {
+      "name": "Boutique Hot Dog",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/324412-boutique-hot-dog"
+    },
+    {
+      "name": "Bar do Ant\u00f4nio",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/324519-bar-do-antonio"
+    },
+    {
+      "name": "Beach A\u00e7a\u00ed",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/324871-beach-acai"
+    },
+    {
+      "name": "Boteco da Marcinha.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/324888-boteco-da-marcinha"
+    },
+    {
+      "name": "Barcelos  Flame Grilled Chicken",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/325158-barcelos-flame-grilled-chicken"
+    },
+    {
+      "name": "Baleno Caf\u00e9 E Restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/325287-baleno-cafe-e-restaurante"
+    },
+    {
+      "name": "Bruer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/325367-bruer"
+    },
+    {
+      "name": "Buteco Maranhao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/325521-buteco-maranhao"
+    },
+    {
+      "name": "Babetos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/325836-babetos"
+    },
+    {
+      "name": "Bistro Couvert",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/326940-bistro-couvert"
+    },
+    {
+      "name": "Buffet Petit Comite",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/328010-buffet-petit-comite"
+    },
+    {
+      "name": "Belarus Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/328618-belarus-burger"
+    },
+    {
+      "name": "Bela Alaminuta e Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/328646-bela-alaminuta-e-lanches"
+    },
+    {
+      "name": "Betones Bbq.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/328691-betones-bbq"
+    },
+    {
+      "name": "Boteco Ze Maria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/328768-boteco-ze-maria"
+    },
+    {
+      "name": "Bienal Paes e Doces",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/329146-bienal-paes-e-doces"
+    },
+    {
+      "name": "Bolo da Madre The Mall",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/330275-bolo-da-madre-the-mall"
+    },
+    {
+      "name": "Boccaccio Gelatos Artesanais",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/330316-boccaccio-gelatos-artesanais"
+    },
+    {
+      "name": "Brot Wein Paes Alemaes Especiais",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/331603-brot-wein-paes-alemaes-especiais"
+    },
+    {
+      "name": "Batateria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/332022-batateria"
+    },
+    {
+      "name": "Boloterapia Loja 2",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/332985-boloterapia-loja-2"
+    },
+    {
+      "name": "Baby Beef Steakhouse",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/333852-baby-beef-steakhouse"
+    },
+    {
+      "name": "Budegadomeulindoipsep",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/335123-budegadomeulindoipsep"
+    },
+    {
+      "name": "Bongosto",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/335457-bongosto"
+    },
+    {
+      "name": "Bem Natural Refeicoes Saudaveis",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/336953-bem-natural-refeicoes-saudaveis"
+    },
+    {
+      "name": "Brunella Center Norte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/339172-brunella-center-norte"
+    },
+    {
+      "name": "Brasilanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/339664-brasilanches"
+    },
+    {
+      "name": "Brunelli Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/340562-brunelli-pizzaria"
+    },
+    {
+      "name": "Bolo e Bule",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/344832-bolo-e-bule"
+    },
+    {
+      "name": "Bistro Monet",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/345654-bistro-monet"
+    },
+    {
+      "name": "Baronesa Paes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/346496-baronesa-paes"
+    },
+    {
+      "name": "Boteco da Pequena",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/347095-boteco-da-pequena"
+    },
+    {
+      "name": "Boteco Oscar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/349551-boteco-oscar"
+    },
+    {
+      "name": "Bendeli",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/349914-bendeli"
+    },
+    {
+      "name": "Bolo Caseiro Mais Sabor",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/350388-bolo-caseiro-mais-sabor"
+    },
+    {
+      "name": "Buffet Antonello",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/350980-buffet-antonello"
+    },
+    {
+      "name": "Boteco Pe Santa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/352156-boteco-pe-santa"
+    },
+    {
+      "name": "Baco Napolitano",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/353135-baco-napolitano"
+    },
+    {
+      "name": "Bistro da Chef Negralinda",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/353234-bistro-da-chef-negralinda"
+    },
+    {
+      "name": "Beni Cafe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/355902-beni-cafe"
+    },
+    {
+      "name": "Bord Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/360831-bord-burguer"
+    },
+    {
+      "name": "Bela Pedroso",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/361724-bela-pedroso"
+    },
+    {
+      "name": "Buffet Colher de Pau",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/362070-buffet-colher-de-pau"
+    },
+    {
+      "name": "Brioche e Cia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/362913-brioche-e-cia"
+    },
+    {
+      "name": "Burger Prime",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/363510-burger-prime"
+    },
+    {
+      "name": "Bom e na Brasa Churr",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/365963-bom-e-na-brasa-churr"
+    },
+    {
+      "name": "Bolo Caseiro da Alice",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/367780-bolo-caseiro-da-alice"
+    },
+    {
+      "name": "Brasa Anexo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/368758-brasa-anexo"
+    },
+    {
+      "name": "Bovinus Churrascaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/368904-bovinus-churrascaria"
+    },
+    {
+      "name": "Boom Bhar",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/368915-boom-bhar"
+    },
+    {
+      "name": "Brazuca Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/369067-brazuca-hamburgueria"
+    },
+    {
+      "name": "Bella Beatriz",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/369224-bella-beatriz"
+    },
+    {
+      "name": "Burger Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/369310-burger-hamburgueria"
+    },
+    {
+      "name": "Bistro da Dinda",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/371654-bistro-da-dinda"
+    },
+    {
+      "name": "Brique Panamby",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/373246-brique-panamby"
+    },
+    {
+      "name": "Barraz Fast Food",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/373594-barraz-fast-food"
+    },
+    {
+      "name": "Burger Trip - Hamburgeria Artesanal",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/376797-burger-trip-hamburgeria-artesanal"
+    },
+    {
+      "name": "Barraca Camarao Ramon",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/383968-barraca-camarao-ramon"
+    },
+    {
+      "name": "Biscoitos Feitos por Nos Bras",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/384719-biscoitos-feitos-por-nos-bras"
+    },
+    {
+      "name": "Babelle Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/386025-babelle-pizzaria"
+    },
+    {
+      "name": "Benta Cafe",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/386168-benta-cafe"
+    },
+    {
+      "name": "Bello Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/386343-bello-burger"
+    },
+    {
+      "name": "Brown'in Box R. Oswaldo Cruz 535",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/388579-brown-in-box-r-oswaldo-cruz-535"
+    },
+    {
+      "name": "Biruta",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/388797-biruta"
+    },
+    {
+      "name": "Batata Prime Leopoldina",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/389299-batata-prime-leopoldina"
+    },
+    {
+      "name": "Bolos Flavio Asa Norte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/389337-bolos-flavio-asa-norte"
+    },
+    {
+      "name": "Bao de Bico",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/389741-bao-de-bico"
+    },
+    {
+      "name": "Bem Japa Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/390395-bem-japa-delivery"
+    },
+    {
+      "name": "Bennito Acai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/390587-bennito-acai"
+    },
+    {
+      "name": "Brasa e Breja Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/390800-brasa-e-breja-burguer"
+    },
+    {
+      "name": "Belga Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/390968-belga-delivery"
+    },
+    {
+      "name": "Brasilidade",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/391102-brasilidade"
+    },
+    {
+      "name": "Big Fritas No Cone",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/391217-big-fritas-no-cone"
+    },
+    {
+      "name": "Biomas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/391570-biomas"
+    },
+    {
+      "name": "Boi Brothers",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/391769-boi-brothers"
+    },
+    {
+      "name": "Burger Wizard",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/393135-burger-wizard"
+    },
+    {
+      "name": "Badalado Bar & Restaurante",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/394829-badalado-bar-restaurante"
+    },
+    {
+      "name": "Bar do Elias",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/395135-bar-do-elias"
+    },
+    {
+      "name": "Benedictus",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/396109-benedictus"
+    },
+    {
+      "name": "Burger Espacial.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/396302-burger-espacial"
+    },
+    {
+      "name": "Bonne Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/396885-bonne-burger"
+    },
+    {
+      "name": "BlackCat Caf\u00e9 e Cookies",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/398212-blackcat-cafe-e-cookies"
+    },
+    {
+      "name": "Bar Bracarense",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/398356-bar-bracarense"
+    },
+    {
+      "name": "Bolos da Day- Jardim Niteroi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/398374-bolos-da-day-jardim-niteroi"
+    },
+    {
+      "name": "Bifao da Fazenda",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/398673-bifao-da-fazenda"
+    },
+    {
+      "name": "BPM Burguer - Hamburgueria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/400304-bpm-burguer-hamburgueria"
+    },
+    {
+      "name": "Batal Cozinha \u00c1rabe Artesanal",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/400306-batal-cozinha-arabe-artesanal"
+    },
+    {
+      "name": "Brownie do Barba",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/400307-brownie-do-barba"
+    },
+    {
+      "name": "Bendita Tortas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/401048-bendita-tortas"
+    },
+    {
+      "name": "Barra Pizza Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/401111-barra-pizza-delivery"
+    },
+    {
+      "name": "Brilho dos Anjos - Itaquera",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/401132-brilho-dos-anjos-itaquera"
+    },
+    {
+      "name": "Bistr\u00f4 Pub 184 - Praca da Bandeira",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/401376-bistro-pub-184-praca-da-bandeira"
+    },
+    {
+      "name": "BOM TEMPERO COMIDA CASEIRA.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/401551-bom-tempero-comida-caseira"
+    },
+    {
+      "name": "Bom de Garfo - Almo\u00e7o e Petiscos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/401656-bom-de-garfo-almoco-e-petiscos"
+    },
+    {
+      "name": "Bottini Grill",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/402021-bottini-grill"
+    },
+    {
+      "name": "Bendito Barrashopping",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/402632-bendito-barrashopping"
+    },
+    {
+      "name": "Bonne Burger - Vila Mariana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/402653-bonne-burger-vila-mariana"
+    },
+    {
+      "name": "Burrite.ria - Belo Horizonte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/402705-burrite-ria-belo-horizonte"
+    },
+    {
+      "name": "Bangkok - Culin\u00e1ria Tailandesa..",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/403063-bangkok-culinaria-tailandesa"
+    },
+    {
+      "name": "Brigaderia 85",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/403146-brigaderia-85"
+    },
+    {
+      "name": "Burguers Fruto da Gente",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/403814-burguers-fruto-da-gente"
+    },
+    {
+      "name": "Big Point 3",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/404769-big-point-3"
+    },
+    {
+      "name": "Brunatto Food",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/405664-brunatto-food"
+    },
+    {
+      "name": "Beto Batata Em Casa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/411957-beto-batata-em-casa"
+    },
+    {
+      "name": "Barao da Bar e",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/412520-barao-da-bar-e"
+    },
+    {
+      "name": "Best Sushi Delivery Morumbi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/412661-best-sushi-delivery-morumbi"
+    },
+    {
+      "name": "Bisteca da Maria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/412925-bisteca-da-maria"
+    },
+    {
+      "name": "Bar Do Val",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/414933-bar-do-val"
+    },
+    {
+      "name": "Bocadillo 54",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/420277-bocadillo-54"
+    },
+    {
+      "name": "Batata Recheada Roasted Potato",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/420385-batata-recheada-roasted-potato"
+    },
+    {
+      "name": "Belpane",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/420736-belpane"
+    },
+    {
+      "name": "Brazza Pizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/420750-brazza-pizza"
+    },
+    {
+      "name": "Bk Acai e Sorvete",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/420987-bk-acai-e-sorvete"
+    },
+    {
+      "name": "Basilicata Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/421167-basilicata-burguer"
+    },
+    {
+      "name": "Bella Jardim Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/421336-bella-jardim-pizzaria"
+    },
+    {
+      "name": "Bolos Vovo Iaia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/421340-bolos-vovo-iaia"
+    },
+    {
+      "name": "Boteco Villa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/421395-boteco-villa"
+    },
+    {
+      "name": "Bella Napoli Restopizza",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/421446-bella-napoli-restopizza"
+    },
+    {
+      "name": "Bolo Bolinho Bolao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/421793-bolo-bolinho-bolao"
+    },
+    {
+      "name": "Burguer Chefs",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/421996-burguer-chefs"
+    },
+    {
+      "name": "Batataria Xeque Matte",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/422082-batataria-xeque-matte"
+    },
+    {
+      "name": "Biah",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/422434-biah"
+    },
+    {
+      "name": "Boca Roxa Goumert",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/422674-boca-roxa-goumert"
+    },
+    {
+      "name": "Bendito Cafe e Padaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/423042-bendito-cafe-e-padaria"
+    },
+    {
+      "name": "Bosk Point",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/423379-bosk-point"
+    },
+    {
+      "name": "Bistro Sabor Campo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/423487-bistro-sabor-campo"
+    },
+    {
+      "name": "Britto Burguer Artesanal",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/423524-britto-burguer-artesanal"
+    },
+    {
+      "name": "Br Steak",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/423882-br-steak"
+    },
+    {
+      "name": "Bolos e Paes Caseiros Nobre",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/424240-bolos-e-paes-caseiros-nobre"
+    },
+    {
+      "name": "Baiao Todos Ll Ctn Limao",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/424581-baiao-todos-ll-ctn-limao"
+    },
+    {
+      "name": "Bela Capri",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/424631-bela-capri"
+    },
+    {
+      "name": "Batata Feliz",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/424698-batata-feliz"
+    },
+    {
+      "name": "Broclinhos Hamburgueria Vegana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/425008-broclinhos-hamburgueria-vegana"
+    },
+    {
+      "name": "Bolos Caseiros Gourmet",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/425104-bolos-caseiros-gourmet"
+    },
+    {
+      "name": "Batard Padaria Artesanal",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/425111-batard-padaria-artesanal"
+    },
+    {
+      "name": "Banana Rosa Saudavel",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/425255-banana-rosa-saudavel"
+    },
+    {
+      "name": "Banca 40 Zona",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/425422-banca-40-zona"
+    },
+    {
+      "name": "Bruder Kebab - Campinas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/425489-bruder-kebab-campinas"
+    },
+    {
+      "name": "Boni Pastelaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/425853-boni-pastelaria"
+    },
+    {
+      "name": "Benevolo Boulangerie Padaria Artesanal",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/425989-benevolo-boulangerie-padaria-artesanal"
+    },
+    {
+      "name": "Bravo Galeteria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/426027-bravo-galeteria"
+    },
+    {
+      "name": "Batata Freaks",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/426078-batata-freaks"
+    },
+    {
+      "name": "Bolos da vov\u00f3 Ana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/426737-bolos-da-vovo-ana"
+    },
+    {
+      "name": "Big Esfiha Peruche",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/427766-big-esfiha-peruche"
+    },
+    {
+      "name": "Brownieria Icarai",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/428266-brownieria-icarai"
+    },
+    {
+      "name": "Bigatto Espetinhos",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/428801-bigatto-espetinhos"
+    },
+    {
+      "name": "Black Beef Santa Cruz",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/429997-black-beef-santa-cruz"
+    },
+    {
+      "name": "Banana Pastel",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/430004-banana-pastel"
+    },
+    {
+      "name": "Black Bull 1968",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/430031-black-bull-1968"
+    },
+    {
+      "name": "Bello Pastel Express.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/435697-bello-pastel-express"
+    },
+    {
+      "name": "Biscoite- Cidade Jardim",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/436312-biscoite-cidade-jardim"
+    },
+    {
+      "name": "Big Sushi - 1 Real",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/436716-big-sushi-1-real"
+    },
+    {
+      "name": "BIGS SALGADOS",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/436732-bigs-salgados"
+    },
+    {
+      "name": "Beta a\u00e7a\u00ed",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/436989-beta-acai"
+    },
+    {
+      "name": "Brigadeiros Fabiana D\u00b4Angelo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/437226-brigadeiros-fabiana-dangelo"
+    },
+    {
+      "name": "Bendito Burger House-jd Itapema",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/437302-bendito-burger-house-jd-itapema"
+    },
+    {
+      "name": "Burger do Gordo - Parque Savoi City",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/437486-burger-do-gordo-parque-savoi-city"
+    },
+    {
+      "name": "Burguer's Lanches.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/437919-burguer-s-lanches"
+    },
+    {
+      "name": "Bananas Juice",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/438677-bananas-juice"
+    },
+    {
+      "name": "Bella Paulista Ii Pizzaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/441221-bella-paulista-ii-pizzaria"
+    },
+    {
+      "name": "Bolocaseiro",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/442682-bolocaseiro"
+    },
+    {
+      "name": "Big hamburgueria sg",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/459426-big-hamburgueria-sg"
+    },
+    {
+      "name": "Bela A\u00e7a\u00ed",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/459549-bela-acai"
+    },
+    {
+      "name": "Burguer Villa - Prl",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/459560-burguer-villa-prl"
+    },
+    {
+      "name": "Baiburger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/460611-baiburger"
+    },
+    {
+      "name": "Bruels Dog - Ch\u00e1cara Belenzinho",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/461363-bruels-dog-chacara-belenzinho"
+    },
+    {
+      "name": "Bento Box.",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/461573-bento-box"
+    },
+    {
+      "name": "Braseiro Hamburgueria Artesanal",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/461894-braseiro-hamburgueria-artesanal"
+    },
+    {
+      "name": "Bom Burger Artesanal",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/462861-bom-burger-artesanal"
+    },
+    {
+      "name": "Bem Frito Salgaderia e Petiscaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/462864-bem-frito-salgaderia-e-petiscaria"
+    },
+    {
+      "name": "Boa Pizza Mooca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/462949-boa-pizza-mooca"
+    },
+    {
+      "name": "Beco da Vila S\u00f4nia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/463181-beco-da-vila-sonia"
+    },
+    {
+      "name": "Bela Conveni\u00eancia",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/463634-bela-conveniencia"
+    },
+    {
+      "name": "Brabo's Burguer",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/463874-brabo-s-burguer"
+    },
+    {
+      "name": "Brimo Esfihas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/464144-brimo-esfihas"
+    },
+    {
+      "name": "Burger Espacial - Morumbi",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/464492-burger-espacial-morumbi"
+    },
+    {
+      "name": "Bender bebidas",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/464952-bender-bebidas"
+    },
+    {
+      "name": "Bruna Santos Confeitaria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/465608-bruna-santos-confeitaria"
+    },
+    {
+      "name": "BUBBELEH DELI SHOP",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/465667-bubbeleh-deli-shop"
+    },
+    {
+      "name": "Bendita Sopa - Perdizes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/465702-bendita-sopa-perdizes"
+    },
+    {
+      "name": "Big Burger Lanches",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/465873-big-burger-lanches"
+    },
+    {
+      "name": "Braccia Restaurante E Pizzaria - Teres\u00f3polis",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/466465-braccia-restaurante-e-pizzaria-teresopolis"
+    },
+    {
+      "name": "Bai\u00e3o de Dois e tradi\u00e7\u00f5es nordestina",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/466751-baiao-de-dois-e-tradicoes-nordestina"
+    },
+    {
+      "name": "Bella Comida - Perdizes \" Fitness e Massas\"",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/466969-bella-comida-perdizes-fitness-e-massas"
+    },
+    {
+      "name": "BENDITTA PARMEGIANA",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/467379-benditta-parmegiana"
+    },
+    {
+      "name": "Bravo A\u00e7ai - Santana",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/467653-bravo-acai-santana"
+    },
+    {
+      "name": "by Chloe Sandwich Shop",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/467788-by-chloe-sandwich-shop"
+    },
+    {
+      "name": "Bruttus Burger",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/468123-bruttus-burger"
+    },
+    {
+      "name": "Brasa da Villa",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/468339-brasa-da-villa"
+    },
+    {
+      "name": "Boteco do Carl\u00e3o",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/468884-boteco-do-carlao"
+    },
+    {
+      "name": "Burger X Veggie",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/469221-burger-x-veggie"
+    },
+    {
+      "name": "Brownietiba - Juvev\u00ea",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/469654-brownietiba-juveve"
+    },
+    {
+      "name": "Boleila Doces E Presentes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/469949-boleila-doces-e-presentes"
+    },
+    {
+      "name": "Bloom Fast Good",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/470590-bloom-fast-good"
+    },
+    {
+      "name": "Brasileirinho Delivery Cb",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/470746-brasileirinho-delivery-cb"
+    },
+    {
+      "name": "Bom de Boca Delivery - Cg",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/470755-bom-de-boca-delivery-cg"
+    },
+    {
+      "name": "Bom de Garfo Delivery Cg",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/470854-bom-de-garfo-delivery-cg"
+    },
+    {
+      "name": "Beleleu Burger E Bar em 20 mins",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/471379-beleleu-burger-e-bar-em-20-mins"
+    },
+    {
+      "name": "Benedetti's - Moinho Velho",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/471429-benedetti-s-moinho-velho"
+    },
+    {
+      "name": "Burger 192",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/472010-burger-192"
+    },
+    {
+      "name": "Boulangerie De France em 20mins",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/472112-boulangerie-de-france-em-20mins"
+    },
+    {
+      "name": "Brasil Pinheiros Delivery",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/472679-brasil-pinheiros-delivery"
+    },
+    {
+      "name": "Boleria do \u00d3",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/472988-boleria-do-o"
+    },
+    {
+      "name": "botequim do itahy R. Maria Quit\u00e9ria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/473731-botequim-do-itahy-r-maria-quiteria"
+    },
+    {
+      "name": "Birosca Bar e Restaurante R. Profa. Dalva Menezes",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/473988-birosca-bar-e-restaurante-r-profa-dalva-menezes"
+    },
+    {
+      "name": "BATATARIA FAMILIA REDER",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/473993-batataria-familia-reder"
+    },
+    {
+      "name": "Bendita Cozinha Av. Ant\u00f4nio Lira",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474098-bendita-cozinha-av-antonio-lira"
+    },
+    {
+      "name": "Bendito A\u00e7a\u00ed - Jardim S\u00e3o Paulo",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474099-bendito-acai-jardim-sao-paulo"
+    },
+    {
+      "name": "Burguer Brasil - Tijuca Av. Heitor Beltr\u00e3o - Tijuca",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474101-burguer-brasil-tijuca-av-heitor-beltrao-tijuca"
+    },
+    {
+      "name": "Big Burguer - Vila Cecilia Maria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474147-big-burguer-vila-cecilia-maria"
+    },
+    {
+      "name": "booa da villa R. Cel. Trancoso",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474284-booa-da-villa-r-cel-trancoso"
+    },
+    {
+      "name": "Bar\u00e3o Pizzaria R. S\u00e3o Mateus",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474341-barao-pizzaria-r-sao-mateus"
+    },
+    {
+      "name": "Burguer's Mania cer\u00e2mica Av. Ol\u00e1vo Bilac",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474347-burguer-s-mania-ceramica-av-olavo-bilac"
+    },
+    {
+      "name": "Bahamas Av. Jo\u00e3o Maur\u00edcio",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474349-bahamas-av-joao-mauricio"
+    },
+    {
+      "name": "brasao restaurante Av. Bar\u00e3o do Rio Branco",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474559-brasao-restaurante-av-barao-do-rio-branco"
+    },
+    {
+      "name": "Bella Pizza R. Agostinho Fonseca Neto 211 - \u00c1gua Fria",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474580-bella-pizza-r-agostinho-fonseca-neto-211-agua-fria"
+    },
+    {
+      "name": "Bem Kaseiro Restaurante R. Niter\u00f3i",
+      "url": "https://www.rappi.com.br/restaurantes/delivery/474623-bem-kaseiro-restaurante-r-niteroi"
     }
   ]
 }
