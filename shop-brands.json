@@ -1,0 +1,772 @@
+{
+  "byKey": {
+    "0-9": {
+      "count": 4,
+      "results": [
+        {
+          "name": "360",
+          "url": "https://www.rappi.com.uy/tiendas/114905-360-montevideo"
+        },
+        {
+          "name": "360 Express",
+          "url": "https://www.rappi.com.uy/tiendas/119926-360-express-montevideo"
+        },
+        {
+          "name": "24 Full",
+          "url": "https://www.rappi.com.uy/tiendas/113611-24-full-montevideo"
+        },
+        {
+          "name": "360 Licores",
+          "url": "https://www.rappi.com.uy/tiendas/119137-360-licores-montevideo"
+        }
+      ]
+    },
+    "a": {
+      "count": 9,
+      "results": [
+        {
+          "name": "Angus Williman",
+          "url": "https://www.rappi.com.uy/tiendas/113741-angus-williman-montevideo"
+        },
+        {
+          "name": "alvear",
+          "url": "https://www.rappi.com.uy/tiendas/114495-alvear-montevideo"
+        },
+        {
+          "name": "Animal Shop",
+          "url": "https://www.rappi.com.uy/tiendas/119892-animal-shop-montevideo"
+        },
+        {
+          "name": "Acana",
+          "url": "https://www.rappi.com.uy/tiendas/113282-acana-montevideo"
+        },
+        {
+          "name": "Aqua Vitae Farmacia",
+          "url": "https://www.rappi.com.uy/tiendas/113891-aqua-vitae-farmacia-montevideo"
+        },
+        {
+          "name": "Animal Shop Super",
+          "url": "https://www.rappi.com.uy/tiendas/120024-animal-shop-super-montevideo"
+        },
+        {
+          "name": "Airamen Williman",
+          "url": "https://www.rappi.com.uy/tiendas/113748-airamen-williman-montevideo"
+        },
+        {
+          "name": "Aqua Vitae",
+          "url": "https://www.rappi.com.uy/tiendas/113326-aqua-vitae-montevideo"
+        },
+        {
+          "name": "Arcor",
+          "url": "https://www.rappi.com.uy/tiendas/114584-arcor-montevideo"
+        }
+      ]
+    },
+    "b": {
+      "count": 11,
+      "results": [
+        {
+          "name": "Birradelivery Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/113063-birradelivery-liquor-montevideo"
+        },
+        {
+          "name": "Birradelivery Market",
+          "url": "https://www.rappi.com.uy/tiendas/113057-birradelivery-market-montevideo"
+        },
+        {
+          "name": "Bar Arocena Market",
+          "url": "https://www.rappi.com.uy/tiendas/112341-bar-arocena-market-montevideo"
+        },
+        {
+          "name": "Bodegasbouza Market",
+          "url": "https://www.rappi.com.uy/tiendas/114452-bodegasbouza-market-montevideo"
+        },
+        {
+          "name": "Boutique Erotica",
+          "url": "https://www.rappi.com.uy/tiendas/112118-boutique-erotica-montevideo"
+        },
+        {
+          "name": "Bodegasbouza Home",
+          "url": "https://www.rappi.com.uy/tiendas/114453-bodegasbouza-home-montevideo"
+        },
+        {
+          "name": "Birradelivery Cerveza",
+          "url": "https://www.rappi.com.uy/tiendas/113066-birradelivery-cerveza-montevideo"
+        },
+        {
+          "name": "Biolane Farmacia",
+          "url": "https://www.rappi.com.uy/tiendas/112459-biolane-farmacia-montevideo"
+        },
+        {
+          "name": "Botijas Bier Market",
+          "url": "https://www.rappi.com.uy/tiendas/112096-botijas-bier-market-montevideo"
+        },
+        {
+          "name": "Bar Arocena Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/112554-bar-arocena-liquor-montevideo"
+        },
+        {
+          "name": "Biolane Market",
+          "url": "https://www.rappi.com.uy/tiendas/112666-biolane-market-montevideo"
+        }
+      ]
+    },
+    "c": {
+      "count": 13,
+      "results": [
+        {
+          "name": "Crunch Williman",
+          "url": "https://www.rappi.com.uy/tiendas/113751-crunch-williman-montevideo"
+        },
+        {
+          "name": "Chiripa Market",
+          "url": "https://www.rappi.com.uy/tiendas/114436-chiripa-market-montevideo"
+        },
+        {
+          "name": "Charrua Store",
+          "url": "https://www.rappi.com.uy/tiendas/114035-charrua-store-montevideo"
+        },
+        {
+          "name": "Ciudad Aventura",
+          "url": "https://www.rappi.com.uy/tiendas/113274-ciudad-aventura-montevideo"
+        },
+        {
+          "name": "Carnicer\u00eda Modelo",
+          "url": "https://www.rappi.com.uy/tiendas/114890-carniceria-modelo-montevideo"
+        },
+        {
+          "name": "Cosmeshop",
+          "url": "https://www.rappi.com.uy/tiendas/114550-cosmeshop-montevideo"
+        },
+        {
+          "name": "Chiripa Home",
+          "url": "https://www.rappi.com.uy/tiendas/114437-chiripa-home-montevideo"
+        },
+        {
+          "name": "Construtech",
+          "url": "https://www.rappi.com.uy/tiendas/114537-construtech-montevideo"
+        },
+        {
+          "name": "Cachi Licoreria Mercado",
+          "url": "https://www.rappi.com.uy/tiendas/112468-cachi-licoreria-mercado-montevideo"
+        },
+        {
+          "name": "Cachi Licoreria",
+          "url": "https://www.rappi.com.uy/tiendas/111953-cachi-licoreria-montevideo"
+        },
+        {
+          "name": "Cachi Cafeteria",
+          "url": "https://www.rappi.com.uy/tiendas/111960-cachi-cafeteria-montevideo"
+        },
+        {
+          "name": "Candysweet",
+          "url": "https://www.rappi.com.uy/tiendas/114517-candysweet-montevideo"
+        },
+        {
+          "name": "Ciudad Aventura_market",
+          "url": "https://www.rappi.com.uy/tiendas/114688-ciudad-aventura-market-montevideo"
+        }
+      ]
+    },
+    "d": {
+      "count": 2,
+      "results": [
+        {
+          "name": "Drinks Guru Home",
+          "url": "https://www.rappi.com.uy/tiendas/117535-drinks-guru-home-montevideo"
+        },
+        {
+          "name": "Detox Mercados",
+          "url": "https://www.rappi.com.uy/tiendas/113721-detox-mercados-montevideo"
+        }
+      ]
+    },
+    "e": {
+      "count": 6,
+      "results": [
+        {
+          "name": "Enlapera",
+          "url": "https://www.rappi.com.uy/tiendas/113527-enlapera-montevideo"
+        },
+        {
+          "name": "Entre Perros y Gatos Home",
+          "url": "https://www.rappi.com.uy/tiendas/117448-entre-perros-y-gatos-home-montevideo"
+        },
+        {
+          "name": "El Suertidor Market",
+          "url": "https://www.rappi.com.uy/tiendas/112298-el-suertidor-market-montevideo"
+        },
+        {
+          "name": "Elitaliano Williman",
+          "url": "https://www.rappi.com.uy/tiendas/113749-elitaliano-williman-montevideo"
+        },
+        {
+          "name": "El Surtidor Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/112276-el-surtidor-liquor-montevideo"
+        },
+        {
+          "name": "Es Cool",
+          "url": "https://www.rappi.com.uy/tiendas/114183-es-cool-montevideo"
+        }
+      ]
+    },
+    "f": {
+      "count": 11,
+      "results": [
+        {
+          "name": "Frog Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/114115-frog-liquor-montevideo"
+        },
+        {
+          "name": "farmashop",
+          "url": "https://www.rappi.com.uy/tiendas/114174-farmashop-montevideo"
+        },
+        {
+          "name": "Frog",
+          "url": "https://www.rappi.com.uy/tiendas/114500-frog-montevideo"
+        },
+        {
+          "name": "Farmaglobal Farmacia",
+          "url": "https://www.rappi.com.uy/tiendas/112840-farmaglobal-farmacia-montevideo"
+        },
+        {
+          "name": "Farmaglobal Market",
+          "url": "https://www.rappi.com.uy/tiendas/112846-farmaglobal-market-montevideo"
+        },
+        {
+          "name": "Farmashop Ocasiones",
+          "url": "https://www.rappi.com.uy/tiendas/113767-farmashop-ocasiones-montevideo"
+        },
+        {
+          "name": "Frog Market",
+          "url": "https://www.rappi.com.uy/tiendas/114054-frog-market-montevideo"
+        },
+        {
+          "name": "Farmashop Market",
+          "url": "https://www.rappi.com.uy/tiendas/114175-farmashop-market-montevideo"
+        },
+        {
+          "name": "Frog Kioscos",
+          "url": "https://www.rappi.com.uy/tiendas/119910-frog-kioscos-montevideo"
+        },
+        {
+          "name": "Fini",
+          "url": "https://www.rappi.com.uy/tiendas/113246-fini-montevideo"
+        },
+        {
+          "name": "Farmashop Farmacia",
+          "url": "https://www.rappi.com.uy/tiendas/119949-farmashop-farmacia-montevideo"
+        }
+      ]
+    },
+    "g": {
+      "count": 2,
+      "results": [
+        {
+          "name": "Gran D\u00eda de McDonald\u00b4s",
+          "url": "https://www.rappi.com.uy/tiendas/114805-gran-dia-de-mcdonalds-montevideo"
+        },
+        {
+          "name": "Gentile Especializada",
+          "url": "https://www.rappi.com.uy/tiendas/114937-gentile-especializada-montevideo"
+        }
+      ]
+    },
+    "h": {
+      "count": 2,
+      "results": [
+        {
+          "name": "Homeopatiaalemana Farma",
+          "url": "https://www.rappi.com.uy/tiendas/112283-homeopatiaalemana-farma-montevideo"
+        },
+        {
+          "name": "Homeopatiaalemana Farma Market",
+          "url": "https://www.rappi.com.uy/tiendas/112490-homeopatiaalemana-farma-market-montevideo"
+        }
+      ]
+    },
+    "i": {
+      "count": 5,
+      "results": [
+        {
+          "name": "Iberpark Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/112274-iberpark-liquor-montevideo"
+        },
+        {
+          "name": "Iberpark Market Bebidas",
+          "url": "https://www.rappi.com.uy/tiendas/112275-iberpark-market-bebidas-montevideo"
+        },
+        {
+          "name": "Iberpark Autoservicio",
+          "url": "https://www.rappi.com.uy/tiendas/112182-iberpark-autoservicio-montevideo"
+        },
+        {
+          "name": "imperial",
+          "url": "https://www.rappi.com.uy/tiendas/113847-imperial-montevideo"
+        },
+        {
+          "name": "Isolina Go Market",
+          "url": "https://www.rappi.com.uy/tiendas/112329-isolina-go-market-montevideo"
+        }
+      ]
+    },
+    "k": {
+      "count": 2,
+      "results": [
+        {
+          "name": "Kinko Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/114636-kinko-liquor-montevideo"
+        },
+        {
+          "name": "kinko",
+          "url": "https://www.rappi.com.uy/tiendas/113852-kinko-montevideo"
+        }
+      ]
+    },
+    "l": {
+      "count": 17,
+      "results": [
+        {
+          "name": "La Fruteria",
+          "url": "https://www.rappi.com.uy/tiendas/113288-la-fruteria-montevideo"
+        },
+        {
+          "name": "Laika Pets",
+          "url": "https://www.rappi.com.uy/tiendas/120020-laika-pets-montevideo"
+        },
+        {
+          "name": "Losdominguez Market",
+          "url": "https://www.rappi.com.uy/tiendas/112893-losdominguez-market-montevideo"
+        },
+        {
+          "name": "Losdominguez Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/117591-losdominguez-liquor-montevideo"
+        },
+        {
+          "name": "Lymp",
+          "url": "https://www.rappi.com.uy/tiendas/114598-lymp-montevideo"
+        },
+        {
+          "name": "Llambi Express",
+          "url": "https://www.rappi.com.uy/tiendas/114333-llambi-express-montevideo"
+        },
+        {
+          "name": "Lo de Pepe",
+          "url": "https://www.rappi.com.uy/tiendas/113410-lo-de-pepe-montevideo"
+        },
+        {
+          "name": "Lapreviagourmet Market",
+          "url": "https://www.rappi.com.uy/tiendas/112922-lapreviagourmet-market-montevideo"
+        },
+        {
+          "name": "Laika Market",
+          "url": "https://www.rappi.com.uy/tiendas/120237-laika-market-montevideo"
+        },
+        {
+          "name": "Los Dominguez Express",
+          "url": "https://www.rappi.com.uy/tiendas/119964-los-dominguez-express-montevideo"
+        },
+        {
+          "name": "Laspezia Williman",
+          "url": "https://www.rappi.com.uy/tiendas/113744-laspezia-williman-montevideo"
+        },
+        {
+          "name": "Latoscana Williman",
+          "url": "https://www.rappi.com.uy/tiendas/113746-latoscana-williman-montevideo"
+        },
+        {
+          "name": "Llambi Market",
+          "url": "https://www.rappi.com.uy/tiendas/114332-llambi-market-montevideo"
+        },
+        {
+          "name": "Lavazza Market",
+          "url": "https://www.rappi.com.uy/tiendas/112923-lavazza-market-montevideo"
+        },
+        {
+          "name": "Lupulo Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/112801-lupulo-liquor-montevideo"
+        },
+        {
+          "name": "La Oriental especializada",
+          "url": "https://www.rappi.com.uy/tiendas/112524-la-oriental-especializada-montevideo"
+        },
+        {
+          "name": "Lupulo Market",
+          "url": "https://www.rappi.com.uy/tiendas/112804-lupulo-market-montevideo"
+        }
+      ]
+    },
+    "m": {
+      "count": 11,
+      "results": [
+        {
+          "name": "Micromacro Market",
+          "url": "https://www.rappi.com.uy/tiendas/112861-micromacro-market-montevideo"
+        },
+        {
+          "name": "Miro",
+          "url": "https://www.rappi.com.uy/tiendas/117534-miro-montevideo"
+        },
+        {
+          "name": "Micro Macro Express.",
+          "url": "https://www.rappi.com.uy/tiendas/119925-micro-macro-express-montevideo"
+        },
+        {
+          "name": "Micromacro Express",
+          "url": "https://www.rappi.com.uy/tiendas/114559-micromacro-express-montevideo"
+        },
+        {
+          "name": "Minimarket Llambi Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/114819-minimarket-llambi-liquor-montevideo"
+        },
+        {
+          "name": "Milmilas Williman",
+          "url": "https://www.rappi.com.uy/tiendas/113745-milmilas-williman-montevideo"
+        },
+        {
+          "name": "Micromacro Luquor",
+          "url": "https://www.rappi.com.uy/tiendas/114013-micromacro-luquor-montevideo"
+        },
+        {
+          "name": "Maridaje Vinos Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/113828-maridaje-vinos-liquor-montevideo"
+        },
+        {
+          "name": "Milo",
+          "url": "https://www.rappi.com.uy/tiendas/117529-milo-montevideo"
+        },
+        {
+          "name": "Maxi Kiosco 546 Super",
+          "url": "https://www.rappi.com.uy/tiendas/120089-maxi-kiosco-546-super-montevideo"
+        },
+        {
+          "name": "Mundo Mascota",
+          "url": "https://www.rappi.com.uy/tiendas/117528-mundo-mascota-montevideo"
+        }
+      ]
+    },
+    "n": {
+      "count": 3,
+      "results": [
+        {
+          "name": "Nutri Market Mercados",
+          "url": "https://www.rappi.com.uy/tiendas/112069-nutri-market-mercados-montevideo"
+        },
+        {
+          "name": "Nutri Market Bebidas",
+          "url": "https://www.rappi.com.uy/tiendas/113402-nutri-market-bebidas-montevideo"
+        },
+        {
+          "name": "Negro el 8",
+          "url": "https://www.rappi.com.uy/tiendas/117533-negro-el-8-montevideo"
+        }
+      ]
+    },
+    "o": {
+      "count": 14,
+      "results": [
+        {
+          "name": "Ocasion Especial 35",
+          "url": "https://www.rappi.com.uy/tiendas/113323-ocasion-especial-35-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 11",
+          "url": "https://www.rappi.com.uy/tiendas/113044-ocasion-especial-11-montevideo"
+        },
+        {
+          "name": "Ositos Cia",
+          "url": "https://www.rappi.com.uy/tiendas/113943-ositos-cia-montevideo"
+        },
+        {
+          "name": "Optica Ruglio",
+          "url": "https://www.rappi.com.uy/tiendas/113146-optica-ruglio-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 9",
+          "url": "https://www.rappi.com.uy/tiendas/113041-ocasion-especial-9-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 15",
+          "url": "https://www.rappi.com.uy/tiendas/113046-ocasion-especial-15-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 33",
+          "url": "https://www.rappi.com.uy/tiendas/113321-ocasion-especial-33-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 7",
+          "url": "https://www.rappi.com.uy/tiendas/113037-ocasion-especial-7-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 8",
+          "url": "https://www.rappi.com.uy/tiendas/113038-ocasion-especial-8-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 32",
+          "url": "https://www.rappi.com.uy/tiendas/113320-ocasion-especial-32-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 14",
+          "url": "https://www.rappi.com.uy/tiendas/113045-ocasion-especial-14-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 37",
+          "url": "https://www.rappi.com.uy/tiendas/113325-ocasion-especial-37-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 36",
+          "url": "https://www.rappi.com.uy/tiendas/113324-ocasion-especial-36-montevideo"
+        },
+        {
+          "name": "Ocasion Especial 31",
+          "url": "https://www.rappi.com.uy/tiendas/113319-ocasion-especial-31-montevideo"
+        }
+      ]
+    },
+    "p": {
+      "count": 11,
+      "results": [
+        {
+          "name": "Perfumeria Todo Home",
+          "url": "https://www.rappi.com.uy/tiendas/114209-perfumeria-todo-home-montevideo"
+        },
+        {
+          "name": "Patagonia Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/113261-patagonia-liquor-montevideo"
+        },
+        {
+          "name": "Paquin",
+          "url": "https://www.rappi.com.uy/tiendas/111806-paquin-montevideo"
+        },
+        {
+          "name": "Patagonia Cerveceria",
+          "url": "https://www.rappi.com.uy/tiendas/112248-patagonia-cerveceria-montevideo"
+        },
+        {
+          "name": "Pick & Out",
+          "url": "https://www.rappi.com.uy/tiendas/117066-pick-out-montevideo"
+        },
+        {
+          "name": "Pick  Out Licores",
+          "url": "https://www.rappi.com.uy/tiendas/119122-pick-out-licores-montevideo"
+        },
+        {
+          "name": "Perfumeria Todo Market",
+          "url": "https://www.rappi.com.uy/tiendas/114206-perfumeria-todo-market-montevideo"
+        },
+        {
+          "name": "Patagonia Market",
+          "url": "https://www.rappi.com.uy/tiendas/113262-patagonia-market-montevideo"
+        },
+        {
+          "name": "Pequin Market",
+          "url": "https://www.rappi.com.uy/tiendas/112070-pequin-market-montevideo"
+        },
+        {
+          "name": "Pick & Out Express",
+          "url": "https://www.rappi.com.uy/tiendas/117006-pick-out-express-montevideo"
+        },
+        {
+          "name": "Punta Ballena Market",
+          "url": "https://www.rappi.com.uy/tiendas/112584-punta-ballena-market-montevideo"
+        }
+      ]
+    },
+    "r": {
+      "count": 3,
+      "results": [
+        {
+          "name": "Rivera Flores Super",
+          "url": "https://www.rappi.com.uy/tiendas/120150-rivera-flores-super-montevideo"
+        },
+        {
+          "name": "Rivera flores",
+          "url": "https://www.rappi.com.uy/tiendas/112046-rivera-flores-montevideo"
+        },
+        {
+          "name": "Reina Copas",
+          "url": "https://www.rappi.com.uy/tiendas/113455-reina-copas-montevideo"
+        }
+      ]
+    },
+    "s": {
+      "count": 16,
+      "results": [
+        {
+          "name": "Silverled",
+          "url": "https://www.rappi.com.uy/tiendas/113130-silverled-montevideo"
+        },
+        {
+          "name": "Super12 Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/114443-super12-liquor-montevideo"
+        },
+        {
+          "name": "Super Fiestas Market",
+          "url": "https://www.rappi.com.uy/tiendas/112198-super-fiestas-market-montevideo"
+        },
+        {
+          "name": "Suplemetosuy Market",
+          "url": "https://www.rappi.com.uy/tiendas/113119-suplemetosuy-market-montevideo"
+        },
+        {
+          "name": "Saul",
+          "url": "https://www.rappi.com.uy/tiendas/112053-saul-montevideo"
+        },
+        {
+          "name": "San Nicolas Home",
+          "url": "https://www.rappi.com.uy/tiendas/114447-san-nicolas-home-montevideo"
+        },
+        {
+          "name": "Salon Cumparsita Kiosco",
+          "url": "https://www.rappi.com.uy/tiendas/114359-salon-cumparsita-kiosco-montevideo"
+        },
+        {
+          "name": "Salon Cumparsita",
+          "url": "https://www.rappi.com.uy/tiendas/114355-salon-cumparsita-montevideo"
+        },
+        {
+          "name": "Sabremos Tomar Market",
+          "url": "https://www.rappi.com.uy/tiendas/114316-sabremos-tomar-market-montevideo"
+        },
+        {
+          "name": "Super 12 Express",
+          "url": "https://www.rappi.com.uy/tiendas/119970-super-12-express-montevideo"
+        },
+        {
+          "name": "Saladconnection Williman",
+          "url": "https://www.rappi.com.uy/tiendas/113747-saladconnection-williman-montevideo"
+        },
+        {
+          "name": "Super12 Market",
+          "url": "https://www.rappi.com.uy/tiendas/113735-super12-market-montevideo"
+        },
+        {
+          "name": "Senda",
+          "url": "https://www.rappi.com.uy/tiendas/117343-senda-montevideo"
+        },
+        {
+          "name": "San Nicolas Market",
+          "url": "https://www.rappi.com.uy/tiendas/114446-san-nicolas-market-montevideo"
+        },
+        {
+          "name": "Sabremos Tomar Home",
+          "url": "https://www.rappi.com.uy/tiendas/114317-sabremos-tomar-home-montevideo"
+        },
+        {
+          "name": "Saul Moda Y Belleza",
+          "url": "https://www.rappi.com.uy/tiendas/112545-saul-moda-y-belleza-montevideo"
+        }
+      ]
+    },
+    "t": {
+      "count": 9,
+      "results": [
+        {
+          "name": "Tienda Inglesa Express",
+          "url": "https://www.rappi.com.uy/tiendas/114617-tienda-inglesa-express-montevideo"
+        },
+        {
+          "name": "Tomatela",
+          "url": "https://www.rappi.com.uy/tiendas/113491-tomatela-montevideo"
+        },
+        {
+          "name": "Tundisi",
+          "url": "https://www.rappi.com.uy/tiendas/114478-tundisi-montevideo"
+        },
+        {
+          "name": "Tienda Inglesa Express.",
+          "url": "https://www.rappi.com.uy/tiendas/119971-tienda-inglesa-express-montevideo"
+        },
+        {
+          "name": "Taberna Ritxu",
+          "url": "https://www.rappi.com.uy/tiendas/113365-taberna-ritxu-montevideo"
+        },
+        {
+          "name": "Tsuy Market",
+          "url": "https://www.rappi.com.uy/tiendas/112734-tsuy-market-montevideo"
+        },
+        {
+          "name": "TiendaInglesa Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/114811-tiendainglesa-liquor-montevideo"
+        },
+        {
+          "name": "Tekombido Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/113071-tekombido-liquor-montevideo"
+        },
+        {
+          "name": "Tundisi Home",
+          "url": "https://www.rappi.com.uy/tiendas/114479-tundisi-home-montevideo"
+        }
+      ]
+    },
+    "u": {
+      "count": 1,
+      "results": [
+        {
+          "name": "Universosregalos Market",
+          "url": "https://www.rappi.com.uy/tiendas/112976-universosregalos-market-montevideo"
+        }
+      ]
+    },
+    "v": {
+      "count": 4,
+      "results": [
+        {
+          "name": "Viaggio Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/114511-viaggio-liquor-montevideo"
+        },
+        {
+          "name": "Viaggio Store",
+          "url": "https://www.rappi.com.uy/tiendas/111594-viaggio-store-montevideo"
+        },
+        {
+          "name": "Vaca Azul",
+          "url": "https://www.rappi.com.uy/tiendas/111299-vaca-azul-montevideo"
+        },
+        {
+          "name": "Vaca Azul Market",
+          "url": "https://www.rappi.com.uy/tiendas/112092-vaca-azul-market-montevideo"
+        }
+      ]
+    },
+    "w": {
+      "count": 3,
+      "results": [
+        {
+          "name": "Wikimusculos Market",
+          "url": "https://www.rappi.com.uy/tiendas/112716-wikimusculos-market-montevideo"
+        },
+        {
+          "name": "Wunderbar Market",
+          "url": "https://www.rappi.com.uy/tiendas/112698-wunderbar-market-montevideo"
+        },
+        {
+          "name": "Wunderbar Liquor",
+          "url": "https://www.rappi.com.uy/tiendas/112689-wunderbar-liquor-montevideo"
+        }
+      ]
+    },
+    "z": {
+      "count": 4,
+      "results": [
+        {
+          "name": "Zona Market Mercados Pocitos",
+          "url": "https://www.rappi.com.uy/tiendas/112623-zona-market-mercados-pocitos-montevideo"
+        },
+        {
+          "name": "Zona Market Pocitos",
+          "url": "https://www.rappi.com.uy/tiendas/112622-zona-market-pocitos-montevideo"
+        },
+        {
+          "name": "Zona Market Merbebidas Pocitos",
+          "url": "https://www.rappi.com.uy/tiendas/112625-zona-market-merbebidas-pocitos-montevideo"
+        },
+        {
+          "name": "Zona Market Liquor Pocitos",
+          "url": "https://www.rappi.com.uy/tiendas/112624-zona-market-liquor-pocitos-montevideo"
+        }
+      ]
+    }
+  },
+  "total": 163
+}
